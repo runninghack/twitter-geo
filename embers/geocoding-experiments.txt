@@ -1,0 +1,31 @@
+Data
+-----
+- Sample Tweets from 07/01/2012 - 07/31/2012
+	- Total tweet 34717796
+	- city_level_geotagged_tweet (ground truth) 658904
+- Ground Truth Tweets: tweets geotagged with lat-lon and places tag
+- Geocoding was done on (ground truth) tweets with geotag removed
+
+Experiment #1: Comparison with ground truth (confusion matrices)
+===============================================================
+				Geocode 0.1.1					(New) Geocode 0.2.0		
+Ground Truth		Matches		Mismatches	No_Result	Matches		Mismatches	No_Result		
+
+Country			200305		4215		454384		213864		3965		441075
+Admin1			26004		35097		597803		69958		42941		546005
+City			22439		38662		597803		36558		44421		577925
+
+Experiment #2: Comparison Scoring with ground truth
+===================================================
+Scoring: 
+- For each match of city/admin/country from geocoding with ground truth of tweet give +1
+- For each mismatch of city/admin/country from geocoding with ground truth of tweet give -1
+- But if city/admin/country was returned '-' or None from geocoding give 0
+
+new_geocode_0.2.0_score 229053
+old_geocode_0.1.1_score 170774
+
+Discussion points:
+------------------
+1. New geocoding gives higher coverage with 150% increase in admin level and 50% increase in city level geocoding
+2. Mismatches are much less or comparable to older geocoding. Significantly less for country level mismatches

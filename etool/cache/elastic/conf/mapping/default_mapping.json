@@ -1,0 +1,131 @@
+{
+  "_ttl": {"enabled": true, "default": "2w"},
+  "_id" : {"path" : "embersId"},
+  "dynamic_templates": [
+      { "date": {
+            "match" : "date",
+            "mapping": {
+                "type": "date",
+                "index" : "analyzed",
+                "norms": {
+                    "enabled": true
+                },
+                "format" : "dateOptionalTime"
+            }
+          }
+      },
+      { "event_date": {
+            "match" : "eventSemantics.datetimes.date",
+            "mapping": {
+                "type": "string",
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      },
+      { "count_long": {
+            "match": "*count*",
+            "match_mapping_type": "long",
+            "mapping": {
+                "type": "integer",
+                "index": "not_analyzed",
+                "norms": {"enabled": false}
+            }
+          }
+      },
+      { "count_long_uc": {
+            "match": "*Count*",
+            "match_mapping_type": "long",
+            "mapping": {
+                "type": "integer",
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      },
+      { "count_double": {
+            "match": "*count*",
+            "match_mapping_type": "double",
+            "mapping": {
+                "type": "integer",
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      },
+      { "count_double_uc": {
+            "match": "*Count*",
+            "match_mapping_type": "double",
+            "mapping": {
+                "type": "integer",
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      },
+      { "phrases_count": {
+            "match": "*phrasesPresent*",
+            "match_mapping_type": "long",
+            "mapping": {
+                "type": "integer",
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      },
+      { "embers_islive": {
+            "match":  "*embers_islive*",
+            "match_mapping_type": "long",
+            "mapping": {
+                "type": "integer",
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      },
+      { "raw_html": {
+            "match": "*raw_html*",
+            "mapping": {
+                "index": "no",
+                "norms": {
+                    "enabled": false
+                },
+                "ignore_above": 1
+            }
+          }
+      },
+      { "full_text": {
+            "match": "*FullText*",
+            "mapping": {
+                "index": "no",
+                "norms": {
+                    "enabled": false
+                },
+                "ignore_above": 1
+            }
+          }
+      },
+       { "*": {
+            "match": "*",
+            "mapping": {
+                "index": "not_analyzed",
+                "norms": {
+                    "enabled": false
+                }
+            }
+          }
+      }
+  ]
+}

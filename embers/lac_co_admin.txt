@@ -1,0 +1,840 @@
+1	country	Brazil	Brazil	Brasil, Federative Republic of Brazil, República Federativa do Brasil	Brasília	-19.285782	-46.496534	BR
+2	country	Belize	Belize	Belice, British Honduras	Belmopan	17.428148	-88.474815	BZ
+3	country	Honduras	Honduras	Republic of Honduras, República de Honduras, Spanish Honduras	Tegucigalpa	14.863665	-87.492236	HN
+4	country	Peru	Peru	Republic of Peru, República del Perú	Lima	-10.765323	-76.083527	PE
+5	country	Uruguay	Uruguay	Oriental Republic of Uruguay, Eastern Republic of Uruguay, República Oriental del Uruguay	Montevideo	-34.395604	-56.020661	UY
+6	country	El Salvador	El Salvador	República de El Salvador	San Salvador	13.701422	-89.090117	SV
+7	country	Nicaragua	Nicaragua	Nicarao, Republic of Nicaragua, República de Nicaragua	Managua	12.288277	-86.118776	NI
+8	country	Panama	Panama	Republic of Panama, República de Panamá	Panama City	8.715007	-80.366823	PA
+9	country	Mexico	Mexico	Méjico, México, United Mexican States, Estados Unidos Mexicanos	Ciudad de México	20.577725	-99.07649	MX
+10	country	Costa Rica	Costa Rica	Republic of Costa Rica, República de Costa Rica	San José	9.996042	-84.283229	CR
+11	country	Guatemala	Guatemala	Republic of Guatemala, República de Guatemala	Guatemala City	14.820065	-90.60561	GT
+12	country	Chile	Chile	Republic of Chile, República de Chile	Santiago	-34.144065	-71.426994	CL
+13	country	French Guiana	French Guiana	Guyane, Guiana, Guyane	Cayenne	4.947033	-52.611209	GF
+14	country	Suriname	Suriname	Surinam, Republic of Suriname	Paramaribo	5.796235	-55.249176	SR
+15	country	Guyana	Guyana	Co-operative Republic of Guyana	Georgetown	6.400132	-58.199905	GY
+16	country	Paraguay	Paraguay	Paraguái, Republic of Paraguay, Tetã Paraguái, República del Paraguay	Asunción	-25.433365	-57.004073	PY
+17	country	Colombia	Colombia	Republic of Colombia, República de Colombia	Bogotá	5.950547	-74.847667	CO
+18	country	Bolivia	Bolivia	Bolivie, Plurinational State of Bolivia, Estado Plurinacional de Bolivia, Bulivya Mamallaqta, Wuliwya Suyu	Sucre	-17.459394	-65.494446	BO
+19	country	Venezuela	Venezuela	Bolivarian Republic of Venezuela, República Bolivariana de Venezuela	Caracas	9.74684	-67.84814	VE
+20	country	Argentina	Argentina	Argentine, Argentine Republic, República Argentina	Buenos Aires	-33.543563	-61.37253	AR
+21	country	Ecuador	Ecuador	Republic of Ecuador, República del Ecuador	Quito	-1.489867	-79.51942	EC
+22	admin	Rio Grande do Norte	Rio Grande do Norte, Brazil			-5.8433625	-36.0937	RN
+23	admin	Tocantins	Tocantins, Brazil			-9.749938271604938	-48.19067901234568	TO
+24	admin	Acre	Acre, Brazil			-9.548656716417911	-68.76485074626865	AC
+25	admin	Piauí	Piauí, Brazil			-5.486579710144928	-42.43168115942029	PI
+26	admin	Mato Grosso do Sul	Mato Grosso do Sul, Brazil			-21.26282918149466	-54.62072953736654	MS
+27	admin	São Paulo	São Paulo, Brazil			-22.809288862768145	-47.51353021843472	SP
+28	admin	Pernambuco	Pernambuco, Brazil			-8.211375464684016	-35.969628252788105	PE
+29	admin	Ceará	Ceará, Brazil			-4.813280815569972	-39.086246524559776	CE
+30	admin	Amapá	Amapá, Brazil			0.043687500000000004	-51.1285625	AP
+31	admin	Mato Grosso	Mato Grosso, Brazil			-14.645429362880886	-55.73795013850416	MT
+32	admin	Pará	Pará, Brazil			-2.352515114873035	-49.17851269649335	PA
+33	admin	Goiás	Goiás, Brazil			-16.346048109965636	-48.69954753722795	GO
+34	admin	Alagoas	Alagoas, Brazil			-9.56987987987988	-36.25807807807808	AL
+35	admin	Sergipe	Sergipe, Brazil			-10.771634615384615	-37.262235576923075	SE
+36	admin	Maranhão	Maranhão, Brazil			-3.886879120879121	-44.692945054945056	MA
+37	admin	Paraíba	Paraíba, Brazil			-7.083813084112149	-36.11024299065421	PB
+38	admin	Rondônia	Rondônia, Brazil			-9.924698795180722	-62.939277108433735	RO
+39	admin	Amazonas	Amazonas, Brazil			-3.2311014492753625	-60.52655072463768	AM
+40	admin	Rio de Janeiro	Rio de Janeiro, Brazil			-22.663995901639346	-43.09891393442623	RJ
+41	admin	Santa Catarina	Santa Catarina, Brazil			-27.30975516866159	-49.328960826985856	SC
+42	admin	Distrito Federal	Distrito Federal, Brazil			-15.785315315315316	-47.8945045045045	DF
+43	admin	Bahia	Bahia, Brazil			-13.05147592738753	-39.46569850039463	BA
+44	admin	Espírito Santo	Espírito Santo, Brazil			-20.05024453024453	-40.495624195624195	ES
+45	admin	Minas Gerais	Minas Gerais, Brazil			-19.99941364296081	-44.61141074020319	MG
+46	admin	Rio Grande do Sul	Rio Grande do Sul, Brazil			-29.649622003687767	-51.952529194837126	RS
+47	admin	Paraná	Paraná, Brazil			-24.795237672145714	-51.06702354509107	PR
+48	admin	Roraima	Roraima, Brazil			2.773069306930693	-60.711782178217824	RR
+49	admin	Potosí	Potosí, Bolivia			-20.05	-66.088	
+50	admin	Cochabamba	Cochabamba, Bolivia			-17.485934065934067	-66.03186813186812	
+51	admin	Tarija	Tarija, Bolivia			-21.718125	-64.2846875	
+52	admin	Santa Cruz	Santa Cruz, Bolivia			-17.632826086956523	-62.92994565217391	
+53	admin	Pando	Pando, Bolivia			-11.306666666666667	-67.24666666666667	
+54	admin	Oruro	Oruro, Bolivia			-18.409032258064517	-67.39032258064516	
+55	admin	Chuquisaca	Chuquisaca, Bolivia			-19.678918918918917	-64.74513513513514	
+56	admin	Beni	Beni, Bolivia			-13.818965517241379	-65.24241379310345	
+57	admin	La Paz	La Paz, Bolivia			-16.316273291925466	-68.14503105590062	
+58	admin	Colón	Colón, Honduras			15.748750000000001	-85.895	
+59	admin	Islas de la Bahía	Islas de la Bahía, Honduras			16.339117647058824	-86.42764705882352	
+60	admin	Francisco Morazán	Francisco Morazán, Honduras			14.1310843373494	-87.19813253012047	
+61	admin	Comayagua	Comayagua, Honduras			14.54903846153846	-87.67942307692307	
+62	admin	Ocotepeque	Ocotepeque, Honduras			14.477619047619047	-89.02047619047619	
+63	admin	Cortés	Cortés, Honduras			15.454375	-87.9884375	
+64	admin	Valle	Valle, Honduras			13.507692307692308	-87.53461538461539	
+65	admin	Santa Bárbara	Santa Bárbara, Honduras			15.076885245901638	-88.36868852459015	
+66	admin	Copán	Copán, Honduras			14.882857142857143	-88.84714285714286	
+67	admin	El Paraíso	El Paraíso, Honduras			13.980250000000002	-86.671	
+68	admin	Choluteca	Choluteca, Honduras			13.305116279069768	-87.14720930232558	
+69	admin	Intibucá	Intibucá, Honduras			14.19375	-88.25125	
+70	admin	Yoro	Yoro, Honduras			15.35064935064935	-87.3051948051948	
+71	admin	Lempira	Lempira, Honduras			14.588823529411764	-88.5829411764706	
+72	admin	Gracias a Dios	Gracias a Dios, Honduras			15.342500000000001	-84.10000000000001	
+73	admin	Distrito Central	Distrito Central, Honduras			14.08	-87.22333333333331	
+74	admin	Olancho	Olancho, Honduras			14.8	-86.193	
+75	admin	La Paz	La Paz, Honduras			14.205454545454545	-87.83636363636364	
+76	admin	Atlántida	Atlántida, Honduras			15.723454545454544	-87.08127272727273	
+77	admin	Pasco	Pasco, Peru			-10.521304347826087	-76.1008695652174	
+78	admin	Loreto	Loreto, Peru			-4.0784782608695656	-73.97195652173913	
+79	admin	Ica	Ica, Peru			-13.940675675675674	-75.84729729729729	
+80	admin	Ayacucho	Ayacucho, Peru			-13.990117647058824	-74.02494117647059	
+81	admin	Ancash	Ancash, Peru			-9.293724137931035	-77.75862068965517	
+82	admin	San Martín	San Martín, Peru			-6.573698630136986	-76.5831506849315	
+83	admin	Tumbes	Tumbes, Peru			-3.6142857142857148	-80.45476190476191	
+84	admin	Arequipa	Arequipa, Peru			-15.144444444444444	-73.24181818181818	
+85	admin	Madre de Dios	Madre de Dios, Peru			-12.18	-69.9925	
+86	admin	Puno	Puno, Peru			-15.218111111111112	-70.01677777777778	
+87	admin	Lima Provincias	Lima Provincias, Peru			-12.014402810304448	-76.8699531615925	
+88	admin	Lambayeque	Lambayeque, Peru			-6.68108108108108	-79.79743243243243	
+89	admin	Junín	Junín, Peru			-11.724761904761904	-75.44295238095238	
+90	admin	La Libertad	La Libertad, Peru			-7.945034013605443	-78.79544217687075	
+91	admin	Huancavelica	Huancavelica, Peru			-12.935666666666666	-74.97216666666667	
+92	admin	Cusco	Cusco, Peru			-13.719482758620689	-71.87663793103448	
+93	admin	Amazonas	Amazonas, Peru			-6.211304347826086	-77.91188405797102	
+94	admin	Ucayali	Ucayali, Peru			-8.718823529411765	-74.43176470588234	
+95	admin	Callao	Callao, Peru			-11.980972222222222	-77.09277777777778	
+96	admin	Moquegua	Moquegua, Peru			-17.080625	-71.0084375	
+97	admin	Huánuco	Huánuco, Peru			-9.685409836065572	-76.30868852459017	
+98	admin	Cajamarca	Cajamarca, Peru			-6.642758620689655	-78.68086206896551	
+99	admin	Tacna	Tacna, Peru			-17.79	-70.25658536585365	
+100	admin	Apurímac	Apurímac, Peru			-13.944561403508773	-73.07263157894738	
+101	admin	Piura	Piura, Peru			-4.951851851851852	-80.65685185185185	
+102	admin	Commewijne	Commewijne, Suriname			5.873333333333334	-55.06333333333333	
+103	admin	Saramacca	Saramacca, Suriname			5.839999999999999	-55.62428571428571	
+104	admin	Coronie	Coronie, Suriname			5.89	-56.32	
+105	admin	Para	Para, Suriname			5.59	-55.19	
+106	admin	Wanica	Wanica, Suriname			5.72	-55.23	
+107	admin	Brokopondo	Brokopondo, Suriname			5.029999999999999	-55.095	
+108	admin	Marowijne	Marowijne, Suriname			5.5649999999999995	-54.245	
+109	admin	Paramaribo	Paramaribo, Suriname			5.819090909090909	-55.18984848484849	
+110	admin	Nickerie	Nickerie, Suriname			5.865	-56.835	
+111	admin	Salto	Salto, Uruguay			-31.086666666666662	-57.85666666666666	SA
+112	admin	Treinta y Tres	Treinta y Tres, Uruguay			-33.177	-54.407000000000004	TT
+113	admin	Cerro Largo	Cerro Largo, Uruguay			-32.29666666666667	-54.26666666666667	CL
+114	admin	Colonia	Colonia, Uruguay			-34.22416666666667	-57.932500000000005	CO
+115	admin	Lavalleja	Lavalleja, Uruguay			-34.20272727272727	-55.11636363636364	LA
+116	admin	Paysandú	Paysandú, Uruguay			-32.285000000000004	-57.79	PA
+117	admin	Florida	Florida, Uruguay			-34.05125	-56.113125	FD
+118	admin	Durazno	Durazno, Uruguay			-33.12714285714286	-56.050000000000004	DU
+119	admin	San José	San José, Uruguay			-34.54375	-56.6675	SJ
+120	admin	Maldonado	Maldonado, Uruguay			-34.89743243243243	-54.991216216216216	MA
+121	admin	Río Negro	Río Negro, Uruguay			-32.875	-58.03	RN
+122	admin	Flores	Flores, Uruguay			-33.54	-56.9	FS
+123	admin	Rocha	Rocha, Uruguay			-33.95875	-53.9475	RO
+124	admin	Montevideo	Montevideo, Uruguay			-34.87571428571429	-56.20333333333333	MO
+125	admin	Soriano	Soriano, Uruguay			-33.44916666666666	-57.91083333333333	SO
+126	admin	Tacuarembó	Tacuarembó, Uruguay			-32.223333333333336	-56.203333333333326	TA
+127	admin	Artigas	Artigas, Uruguay			-30.41	-57.14666666666667	AR
+128	admin	Rivera	Rivera, Uruguay			-31.369999999999997	-55.375	RV
+129	admin	Canelones	Canelones, Uruguay			-34.78590697674419	-56.115302325581396	CA
+130	admin	San Miguel	San Miguel, El Salvador			13.465686274509803	-88.22823529411765	SM
+131	admin	La Libertad	La Libertad, El Salvador			13.706830985915493	-89.32711267605634	LI
+132	admin	Cuscatlán	Cuscatlán, El Salvador			13.744444444444445	-88.96111111111111	CU
+133	admin	La Unión	La Unión, El Salvador			13.516923076923076	-87.8726923076923	UN
+134	admin	San Salvador	San Salvador, El Salvador			13.739408602150538	-89.17177419354839	SS
+135	admin	Cabañas	Cabañas, El Salvador			13.843636363636364	-88.78999999999999	CA
+136	admin	Ahuachapán	Ahuachapán, El Salvador			13.853225806451613	-89.9058064516129	AH
+137	admin	Chalatenango	Chalatenango, El Salvador			14.10344827586207	-89.08896551724138	CH
+138	admin	Morazán	Morazán, El Salvador			13.697272727272725	-88.08272727272727	MO
+139	admin	San Vicente	San Vicente, El Salvador			13.645999999999999	-88.78999999999999	SV
+140	admin	Santa Ana	Santa Ana, El Salvador			13.961555555555556	-89.54644444444445	SA
+141	admin	Sonsonate	Sonsonate, El Salvador			13.706222222222221	-89.71311111111112	SO
+142	admin	Usulután	Usulután, El Salvador			13.380500000000001	-88.48525	US
+143	admin	La Paz	La Paz, El Salvador			13.45375	-89.0384375	PA
+144	admin	Delta Amacuro	Delta Amacuro, Venezuela			9.042	-62.06333333333334	DA
+145	admin	Lara	Lara, Venezuela			10.064285714285713	-69.52230158730158	LA
+146	admin	Aragua	Aragua, Venezuela			10.206401673640167	-67.37707112970712	AR
+147	admin	Táchira	Táchira, Venezuela			7.849367088607595	-72.36080168776371	TA
+148	admin	Falcón	Falcón, Venezuela			11.603735632183907	-70.01614942528735	FA
+149	admin	Yaracuy	Yaracuy, Venezuela			10.118837209302326	-68.70790697674418	YA
+150	admin	Monagas	Monagas, Venezuela			9.721487603305786	-63.22685950413223	MO
+151	admin	Miranda	Miranda, Venezuela			10.390614334470989	-66.74088737201366	MI
+152	admin	Barinas	Barinas, Venezuela			8.628157894736843	-70.21368421052631	BA
+153	admin	Vargas	Vargas, Venezuela			10.591944444444444	-66.92333333333333	VA
+154	admin	Apure	Apure, Venezuela			7.638196721311475	-68.40803278688526	AP
+155	admin	Distrito Capital	Distrito Capital, Venezuela			10.54	-66.93	DF
+156	admin	Amazonas	Amazonas, Venezuela			5.654444444444445	-67.61555555555555	AM
+157	admin	Cojedes	Cojedes, Venezuela			9.762	-68.46942857142857	CO
+158	admin	Anzoátegui	Anzoátegui, Venezuela			9.49567901234568	-64.13077160493827	AN
+159	admin	Nueva Esparta	Nueva Esparta, Venezuela			10.983962264150943	-63.917735849056605	NE
+160	admin	Sucre	Sucre, Venezuela			10.49328947368421	-63.959078947368425	SU
+161	admin	Mérida	Mérida, Venezuela			8.387647058823529	-71.5397385620915	ME
+162	admin	Zulia	Zulia, Venezuela			10.36677966101695	-71.62983050847457	ZU
+163	admin	Carabobo	Carabobo, Venezuela			10.334530744336568	-68.0194498381877	CA
+164	admin	Portuguesa	Portuguesa, Venezuela			9.41126213592233	-69.38310679611651	PO
+165	admin	Bolívar	Bolívar, Venezuela			8.214521739130435	-62.92252173913044	BO
+166	admin	Trujillo	Trujillo, Venezuela			9.31409638554217	-70.5443373493976	TR
+167	admin	Guárico	Guárico, Venezuela			9.537575757575757	-66.65222222222222	GU
+168	admin	Colón	Colón, Panama			9.312307692307693	-79.78923076923077	
+169	admin	Kuna de Madungandí	Kuna de Madungandí, Panama			9.09	-78.595	
+170	admin	Kuna Yala	Kuna Yala, Panama			9.254285714285714	-78.25571428571428	
+171	admin	Los Santos	Los Santos, Panama			7.766857142857142	-80.298	
+172	admin	Herrera	Herrera, Panama			7.961578947368421	-80.52894736842104	
+173	admin	Panamá	Panamá, Panama			8.967260726072608	-79.57422442244226	
+174	admin	Emberá	Emberá, Panama			8.05	-77.875	
+175	admin	Kuna de Wargandí	Kuna de Wargandí, Panama			8.915	-77.99000000000001	
+176	admin	Coclé	Coclé, Panama			8.393978494623656	-80.34763440860215	
+177	admin	Chiriquí	Chiriquí, Panama			8.496796875	-82.49234375	
+178	admin	Darién	Darién, Panama			8.207142857142857	-78.02714285714286	
+179	admin	Ngöbe Buglé	Ngöbe Buglé, Panama			8.668000000000001	-81.77000000000001	
+180	admin	Bocas del Toro	Bocas del Toro, Panama			9.35875	-82.48875	
+181	admin	Veraguas	Veraguas, Panama			8.119259259259259	-81.01444444444444	
+182	admin	Chihuahua	Chihuahua, Mexico			28.6074427480916	-105.59625954198474	CI
+183	admin	Yucatán	Yucatán, Mexico			20.88193717277487	-89.19242582897033	YC
+184	admin	Guanajuato	Guanajuato, Mexico			20.719989224137933	-100.89561422413793	GJ
+185	admin	Sinaloa	Sinaloa, Mexico			24.84672480620155	-107.38596899224807	SI
+186	admin	Tamaulipas	Tamaulipas, Mexico			24.239	-98.49064	TM
+187	admin	Guerrero	Guerrero, Mexico			17.435333333333332	-99.30455319148938	GR
+188	admin	Aguascalientes	Aguascalientes, Mexico			21.96831578947368	-102.30731578947368	AG
+189	admin	Tlaxcala	Tlaxcala, Mexico			19.279771689497714	-97.30940639269406	TL
+190	admin	Nayarit	Nayarit, Mexico			21.374280155642023	-104.29964980544746	NA
+191	admin	Chiapas	Chiapas, Mexico			16.43009433962264	-92.35730607966457	CH
+192	admin	Zacatecas	Zacatecas, Mexico			22.809442508710802	-101.89961672473868	ZT
+193	admin	Baja California	Baja California, Mexico			31.92663194444445	-115.41472222222222	BJ
+194	admin	Quintana Roo	Quintana Roo, Mexico			20.33949083503055	-86.95276985743381	QR
+195	admin	Colima	Colima, Mexico			18.961299999999998	-101.8435	CL
+196	admin	Sonora	Sonora, Mexico			28.742668213457076	-110.18839907192574	SO
+197	admin	Tabasco	Tabasco, Mexico			18.013989795918366	-92.84914285714287	TA
+198	admin	Baja California Sur	Baja California Sur, Mexico			23.794265734265732	-108.99993006993007	BS
+199	admin	Querétaro	Querétaro, Mexico			20.540177777777778	-99.73515555555555	QA
+200	admin	Puebla	Puebla, Mexico			19.190723140495866	-97.6665909090909	PU
+201	admin	San Luis Potosí	San Luis Potosí, Mexico			22.021428571428572	-99.53082857142857	SL
+202	admin	Oaxaca	Oaxaca, Mexico			16.992163892445582	-96.37659411011524	OA
+203	admin	Jalisco	Jalisco, Mexico			20.535787451984636	-103.07989756722151	JA
+204	admin	Nuevo León	Nuevo León, Mexico			25.606162162162164	-99.57254054054053	NL
+205	admin	Distrito Federal	Distrito Federal, Mexico			19.25447154471545	-99.17658536585365	DF
+206	admin	Michoacán	Michoacán, Mexico			19.61581843191197	-101.26110041265476	MH
+207	admin	Campeche	Campeche, Mexico			19.161990291262136	-89.74708737864079	CP
+208	admin	Mexico	Mexico, Mexico			19.354167	-99.630833	EM
+209	admin	Durango	Durango, Mexico			24.74890350877193	-104.25627192982456	DG
+210	admin	Hidalgo	Hidalgo, Mexico			20.25733766233766	-98.58103896103896	HG
+211	admin	Veracruz	Veracruz, Mexico			19.309689399054694	-96.41413234301147	VZ
+212	admin	Morelos	Morelos, Mexico			18.761423948220063	-98.43744336569578	MR
+213	admin	México	México, Mexico			19.461923307369684	-99.39424805272618	
+214	admin	Coahuila	Coahuila, Mexico			26.297791164658634	-101.98558232931727	CU
+215	admin	Limón	Limón, Costa Rica			10.136666666666667	-83.53245614035089	
+216	admin	Alajuela	Alajuela, Costa Rica			10.120240384615384	-84.37519230769232	
+217	admin	Cartago	Cartago, Costa Rica			9.86560975609756	-83.89731707317073	
+218	admin	San José	San José, Costa Rica			9.803020134228188	-84.01953020134228	
+219	admin	Puntarenas	Puntarenas, Costa Rica			9.6010989010989	-84.31384615384616	
+220	admin	Heredia	Heredia, Costa Rica			10.092105263157896	-84.11438596491229	
+221	admin	Guanacaste	Guanacaste, Costa Rica			10.428169014084506	-85.48197183098591	
+222	admin	Santa Rosa	Santa Rosa, Guatemala			14.316976744186046	-90.31906976744186	
+223	admin	Quezaltenango	Quezaltenango, Guatemala			14.846144578313254	-91.58096385542169	
+224	admin	Totonicapán	Totonicapán, Guatemala			14.99625	-91.395	
+225	admin	Alta Verapaz	Alta Verapaz, Guatemala			15.548285714285717	-90.12142857142857	
+226	admin	Guatemala	Guatemala, Guatemala			14.579753086419753	-90.52323456790124	
+227	admin	Zacapa	Zacapa, Guatemala			15.01768115942029	-89.56898550724638	
+228	admin	Sacatepéquez	Sacatepéquez, Guatemala			14.566811594202898	-90.71753623188405	
+229	admin	Suchitepéquez	Suchitepéquez, Guatemala			14.492054794520548	-91.40794520547945	
+230	admin	Jalapa	Jalapa, Guatemala			14.591904761904763	-89.92952380952381	
+231	admin	Huehuetenango	Huehuetenango, Guatemala			15.43188679245283	-91.5811320754717	
+232	admin	Petén	Petén, Guatemala			16.75825	-89.830125	
+233	admin	El Progreso	El Progreso, Guatemala			14.835555555555556	-90.13259259259259	
+234	admin	Izabal	Izabal, Guatemala			15.63	-88.72451612903225	
+235	admin	Jutiapa	Jutiapa, Guatemala			14.304130434782609	-89.85282608695651	
+236	admin	Chimaltenango	Chimaltenango, Guatemala			14.682909090909092	-90.87872727272728	
+237	admin	Chiquimula	Chiquimula, Guatemala			14.709999999999999	-89.4696551724138	
+238	admin	Retalhuleu	Retalhuleu, Guatemala			14.501944444444442	-91.74888888888889	
+239	admin	Quiché	Quiché, Guatemala			15.1225	-91.02714285714286	
+240	admin	Sololá	Sololá, Guatemala			14.713333333333333	-91.21962962962962	
+241	admin	San Marcos	San Marcos, Guatemala			14.974137931034482	-91.88862068965517	
+242	admin	Baja Verapaz	Baja Verapaz, Guatemala			15.071	-90.40799999999999	
+243	admin	Escuintla	Escuintla, Guatemala			14.244166666666665	-90.86435185185185	
+244	admin	Magallanes	Magallanes, Chile			-53.166667	-70.933333	MG
+245	admin	Arica	Arica, Chile			-18.47281690140845	-70.25957746478873	AR
+246	admin	Última Esperanza	Última Esperanza, Chile			-49.586060606060606	-72.74575757575758	
+247	admin	Antofagasta	Antofagasta, Chile			-23.602125984251966	-70.02531496062993	AN
+248	admin	Iquique	Iquique, Chile			-20.38394285714286	-69.74594285714286	IE
+249	admin	Huasco	Huasco, Chile			-28.433205128205127	-70.64500000000001	HU
+250	admin	Chacabuco	Chacabuco, Chile			-33.256331775700936	-70.7368691588785	CB
+251	admin	Magellanes	Magellanes, Chile			-53.15457142857143	-70.846	
+252	admin	Cachapoal	Cachapoal, Chile			-34.27209219858156	-70.8856560283688	CA
+253	admin	Colchagua	Colchagua, Chile			-34.64440758293839	-71.27407582938389	CL
+254	admin	Osorno	Osorno, Chile			-40.653301886792455	-73.05396226415094	OS
+255	admin	Libertador General Bernardo O'Higgins	Libertador General Bernardo O'Higgins, Chile			-34.167222	-70.726944	LI
+256	admin	Cardenal Caro	Cardenal Caro, Chile			-34.412600000000005	-71.8428	CC
+257	admin	El Loa	El Loa, Chile			-22.692426035502958	-68.65591715976332	EL
+258	admin	Ñuble	Ñuble, Chile			-36.645031055900624	-72.24152173913043	NU
+259	admin	Elqui	Elqui, Chile			-29.96954022988506	-71.16869731800766	EQ
+260	admin	Atacama	Atacama, Chile			-27.366667	-70.332222	AT
+261	admin	Santiago	Santiago, Chile			-33.40760638297873	-70.57335106382979	SG
+262	admin	Quillota	Quillota, Chile			-32.86582417582417	-71.23164835164835	QU
+263	admin	Llanquihue	Llanquihue, Chile			-41.4103125	-73.0245703125	LL
+264	admin	Araucanía	Araucanía, Chile			-38.9	-72.666667	AR
+265	admin	Copiapó	Copiapó, Chile			-27.335742574257424	-70.47752475247525	CO
+266	admin	Aisén	Aisén, Chile			-45.209999999999994	-72.64529411764705	
+267	admin	Maipo	Maipo, Chile			-33.72375	-70.7422	MI
+268	admin	Malleco	Malleco, Chile			-38.046779661016956	-72.52889830508474	ML
+269	admin	Maule	Maule, Chile			-35.426667	-71.671667	ML
+270	admin	Aisen	Aisen, Chile			-45.57	-72.066111	AI
+271	admin	Arica and Parinacota	Arica and Parinacota, Chile			-18.475	-70.314444	AP
+272	admin	Tierra del Fuego	Tierra del Fuego, Chile			-52.61899999999999	-70.962	TI
+273	admin	Arauco	Arauco, Chile			-37.576140350877196	-73.36973684210525	AU
+274	admin	Easter Island	Easter Island, Chile			-27.15	-109.425	IP
+275	admin	Melipilla	Melipilla, Chile			-33.609194312796205	-71.19085308056873	ME
+276	admin	Concepción	Concepción, Chile			-36.83786082474227	-73.05646907216494	CN
+277	admin	San Antonio	San Antonio, Chile			-33.50421383647799	-71.62	SA
+278	admin	Tocopilla	Tocopilla, Chile			-22.454583333333332	-69.39166666666667	TO
+279	admin	Cautín	Cautín, Chile			-38.93887052341598	-72.47247933884297	CT
+280	admin	Coquimbo	Coquimbo, Chile			-29.907778	-71.254167	CO
+281	admin	Aisén del General Carlos Ibáñez del Campo	Aisén del General Carlos Ibáñez del Campo, Chile			-45.57	-72.066111	AI
+282	admin	Valparaíso	Valparaíso, Chile			-32.94494202898551	-71.29973913043479	VS
+283	admin	Coihaique	Coihaique, Chile			-45.58970588235294	-71.9735294117647	CI
+284	admin	Ranco	Ranco, Chile			-40.333333	-72.5	RA
+285	admin	San Felipe de Aconcagua	San Felipe de Aconcagua, Chile			-32.78111888111888	-70.79335664335665	SF
+286	admin	Los Lagos	Los Lagos, Chile			-41.471667	-72.936667	LA
+287	admin	Antártica Chilena	Antártica Chilena, Chile			-54.93	-67.62	AC
+288	admin	Tamarugal	Tamarugal, Chile			-20.259444	-69.786111	TM
+289	admin	Metropolitana	Metropolitana, Chile			-33.437778	-70.650278	RM
+290	admin	Los Ríos	Los Ríos, Chile			-39.808333	-73.241667	LR
+291	admin	General Carrera	General Carrera, Chile			-46.81	-72.41000000000001	GC
+292	admin	Chiloé	Chiloé, Chile			-42.4245	-73.70707142857142	CE
+293	admin	Capitán Prat	Capitán Prat, Chile			-47.545	-73.06	CP
+294	admin	Choapa	Choapa, Chile			-31.798219178082192	-71.3108904109589	CH
+295	admin	Cordillera	Cordillera, Chile			-33.610245098039215	-70.59468137254902	CD
+296	admin	Limarí	Limarí, Chile			-30.69046875	-71.180859375	LM
+297	admin	Parinacota	Parinacota, Chile			-18.0875	-69.56	PR
+298	admin	Curicó	Curicó, Chile			-34.99907514450867	-71.30052023121387	CU
+299	admin	Petorca	Petorca, Chile			-32.391038961038966	-71.2364935064935	PE
+300	admin	Biobío	Biobío, Chile			-37.29365853658537	-72.33094076655053	BI
+301	admin	Linares	Linares, Chile			-35.8463436123348	-71.6926872246696	LN
+302	admin	Valparaiso	Valparaiso, Chile			-33.033333	-71.55	VP
+303	admin	Talca	Talca, Chile			-35.29915942028986	-71.67460869565218	TC
+304	admin	Chañaral	Chañaral, Chile			-26.439736842105265	-70.12394736842106	CR
+305	admin	Tarapacá	Tarapacá, Chile			-20.283333	-69.333333	TA
+306	admin	Palena	Palena, Chile			-41.849411764705884	-72.72411764705882	PL
+307	admin	Cauquenes	Cauquenes, Chile			-35.89192307692308	-72.41	CQ
+308	admin	Los Andes	Los Andes, Chile			-32.99525641025641	-71.14935897435898	LA
+309	admin	Valdivia	Valdivia, Chile			-39.86931506849315	-72.87301369863013	VD
+310	admin	Talagante	Talagante, Chile			-33.544338085539714	-70.81682281059062	TG
+311	admin	Bio Bío	Bio Bío, Chile			-36.7728	-73.0631	BI
+312	admin	Magallanes y Antártica Chilena	Magallanes y Antártica Chilena, Chile			-53.1625	-70.9225	MA
+313	admin	Cayenne	Cayenne, French Guiana			4.91225	-52.3855	
+314	admin	Saint-Laurent-du-Maroni	Saint-Laurent-du-Maroni, French Guiana			5.2	-54.25272727272727	
+315	admin	Córdoba	Córdoba, Colombia			8.867582417582419	-75.75263736263736	CO
+316	admin	Quindió	Quindió, Colombia			4.532574257425742	-75.70128712871288	
+317	admin	Santander	Santander, Colombia			6.75919028340081	-73.31607287449393	ST
+318	admin	Risaralda	Risaralda, Colombia			4.8832773109243695	-75.75470588235294	RI
+319	admin	Vaupés	Vaupés, Colombia			0.7966666666666665	-70.02333333333333	VP
+320	admin	Atlántico	Atlántico, Colombia			10.901344086021506	-74.8460752688172	AT
+321	admin	Quindío	Quindío, Colombia			4.533333	-75.7	QD
+322	admin	Guaviare	Guaviare, Colombia			2.33	-72.56333333333333	GV
+323	admin	César	César, Colombia			9.65851851851852	-73.39940740740741	
+324	admin	Cundinamarca	Cundinamarca, Colombia			4.729213161659513	-74.1807582260372	CU
+325	admin	Boyacá	Boyacá, Colombia			5.660396475770925	-73.19929515418502	BY
+326	admin	Cauca	Cauca, Colombia			2.6003061224489796	-76.60081632653062	CA
+327	admin	Vichada	Vichada, Colombia			5.3175	-69.655	VD
+328	admin	Tolima	Tolima, Colombia			4.319951923076923	-74.9973076923077	TO
+329	admin	La Guajira	La Guajira, Colombia			11.082549019607844	-72.77529411764706	LG
+330	admin	Norte de Santander	Norte de Santander, Colombia			7.9077777777777785	-72.866	NS
+331	admin	Guainía	Guainía, Colombia			3.87	-67.92	GN
+332	admin	Chocó	Chocó, Colombia			5.805714285714285	-76.75542857142857	CH
+333	admin	Arauca	Arauca, Colombia			6.582142857142857	-71.49714285714286	AR
+334	admin	Bogotá	Bogotá, Colombia			4.652229299363057	-74.1204458598726	
+335	admin	Distrito Capital	Distrito Capital, Colombia			4.598056	-74.075833	DC
+336	admin	Amazonas	Amazonas, Colombia			-3.995	-70.16	AM
+337	admin	Caldas	Caldas, Colombia			5.138189655172414	-75.43844827586207	CL
+338	admin	Caquetá	Caquetá, Colombia			1.5210344827586206	-75.53999999999999	CQ
+339	admin	Sucre	Sucre, Colombia			9.272957746478873	-75.32971830985915	SU
+340	admin	Huila	Huila, Colombia			2.5723157894736843	-75.52989473684211	HU
+341	admin	San Andrés y Providencia	San Andrés y Providencia, Colombia			12.763478260869565	-81.62217391304348	SA
+342	admin	Putumayo	Putumayo, Colombia			0.6872222222222222	-76.73666666666666	PU
+343	admin	Valle del Cauca	Valle del Cauca, Colombia			3.7378571428571425	-76.37710204081633	VC
+344	admin	Magdalena	Magdalena, Colombia			10.793846153846154	-74.24484615384615	MA
+345	admin	Nariño	Nariño, Colombia			1.3901123595505618	-77.59337078651686	NA
+346	admin	Antioquia	Antioquia, Colombia			6.392887596899225	-75.5570542635659	AN
+347	admin	Meta	Meta, Colombia			3.9686330935251797	-73.3526618705036	ME
+348	admin	Casanare	Casanare, Colombia			5.268513513513514	-72.3727027027027	CS
+349	admin	Bolívar	Bolívar, Colombia			10.07927536231884	-75.22079710144926	BL
+350	admin	Cesar	Cesar, Colombia			10.483333	-73.25	CE
+351	admin	Upper Demerara-Berbice	Upper Demerara-Berbice, Guyana			5.689803921568628	-57.99843137254902	
+352	admin	Upper Takutu-Upper Essequibo	Upper Takutu-Upper Essequibo, Guyana			3.4294736842105262	-59.422105263157896	
+353	admin	Barima-Waini	Barima-Waini, Guyana			7.787647058823529	-59.5835294117647	
+354	admin	Demerara-Mahaica	Demerara-Mahaica, Guyana			6.698222222222222	-58.10255555555556	
+355	admin	Pomeroon-Supenaam	Pomeroon-Supenaam, Guyana			7.296964285714286	-58.550000000000004	
+356	admin	Cuyuni-Mazaruni	Cuyuni-Mazaruni, Guyana			6.141923076923077	-59.316923076923075	
+357	admin	East Berbice-Corentyne	East Berbice-Corentyne, Guyana			6.136206896551724	-57.391724137931035	
+358	admin	Essequibo Islands-West Demerara	Essequibo Islands-West Demerara, Guyana			6.747010309278351	-58.33762886597938	
+359	admin	Potaro-Siparuni	Potaro-Siparuni, Guyana			4.875454545454545	-59.607272727272736	
+360	admin	Mahaica-Berbice	Mahaica-Berbice, Guyana			6.464533333333333	-57.73479999999999	
+361	admin	Alto Paraná	Alto Paraná, Paraguay			-25.613235294117647	-54.98441176470588	AA
+362	admin	Ñeembucú	Ñeembucú, Paraguay			-26.88625	-58.105625	NE
+363	admin	Concepción	Concepción, Paraguay			-23.319473684210525	-57.37789473684211	CN
+364	admin	Central	Central, Paraguay			-25.335677966101695	-57.5006779661017	CE
+365	admin	Canendiyú	Canendiyú, Paraguay			-24.165625	-54.92125	
+366	admin	Caaguazú	Caaguazú, Paraguay			-25.37	-56.196851851851854	CG
+367	admin	Presidente Hayes	Presidente Hayes, Paraguay			-24.85125	-57.64375	PH
+368	admin	Amambay	Amambay, Paraguay			-22.64	-55.93666666666667	AM
+369	admin	Canindeyú	Canindeyú, Paraguay			-24.016667	-54.333333	CY
+370	admin	Cordillera	Cordillera, Paraguay			-25.331011235955057	-57.135393258426966	CR
+371	admin	San Pedro	San Pedro, Paraguay			-24.433666666666667	-56.63066666666667	SP
+372	admin	Alto Paraguay	Alto Paraguay, Paraguay			-21.093333333333334	-58.876666666666665	AG
+373	admin	Guairá	Guairá, Paraguay			-25.656176470588235	-56.572941176470586	GU
+374	admin	Misiones	Misiones, Paraguay			-26.921627906976745	-57.017906976744186	MI
+375	admin	Asunción	Asunción, Paraguay			-25.277142857142856	-57.61	AS
+376	admin	Itapúa	Itapúa, Paraguay			-26.99586956521739	-55.68065217391304	IT
+377	admin	Caazapá	Caazapá, Paraguay			-26.26	-56.218999999999994	CZ
+378	admin	Boquerón	Boquerón, Paraguay			-22.374000000000002	-60.58	BQ
+379	admin	Paraguarí	Paraguarí, Paraguay			-25.743448275862068	-57.095862068965516	PG
+380	admin	Jiménez	Jiménez, Argentina			-27.146666666666665	-64.60666666666667	
+381	admin	Fray Justo Santa María de Oro	Fray Justo Santa María de Oro, Argentina			-27.853333333333335	-61.31	
+382	admin	Biedma	Biedma, Argentina			-42.711052631578944	-64.96473684210525	
+383	admin	Aluminé	Aluminé, Argentina			-39.22	-70.95	
+384	admin	Islas del Ibicuy	Islas del Ibicuy, Argentina			-33.5725	-58.917500000000004	
+385	admin	Valle Grande	Valle Grande, Argentina			-23.435	-65.035	
+386	admin	Zapala	Zapala, Argentina			-38.87375	-70.045	
+387	admin	Tulumba	Tulumba, Argentina			-30.16142857142857	-64.12428571428572	
+388	admin	Atreucó	Atreucó, Argentina			-37.089	-63.681	
+389	admin	Coronel Suárez	Coronel Suárez, Argentina			-37.48647058823529	-61.77352941176471	
+390	admin	Marcos Juárez	Marcos Juárez, Argentina			-32.98591836734694	-62.20183673469388	
+391	admin	Apóstoles	Apóstoles, Argentina			-27.897499999999997	-55.74916666666667	
+392	admin	Bella Vista	Bella Vista, Argentina			-28.5	-59.05	
+393	admin	Quitilipi	Quitilipi, Argentina			-26.87	-60.22	
+394	admin	General Juan F. Quiroga	General Juan F. Quiroga, Argentina			-30.833333333333332	-66.59	
+395	admin	12 de Octubre	12 de Octubre, Argentina			-27.42	-61.3675	
+396	admin	General Alvarado	General Alvarado, Argentina			-38.24409090909091	-57.86954545454546	
+397	admin	Tumbaya	Tumbaya, Argentina			-23.8375	-65.55	
+398	admin	Rojas	Rojas, Argentina			-34.18631578947368	-60.72236842105263	
+399	admin	Entre Ríos	Entre Ríos, Argentina			-32.0477	-60.281	ER
+400	admin	San Andrés de Giles	San Andrés de Giles, Argentina			-34.4375	-59.42727272727273	
+401	admin	Villa Gesell	Villa Gesell, Argentina			-37.263333333333335	-56.98111111111112	
+402	admin	General La Madrid	General La Madrid, Argentina			-37.349411764705884	-61.258235294117654	
+403	admin	Ushuaia	Ushuaia, Argentina			-54.81458333333333	-68.32125	
+404	admin	Garay	Garay, Argentina			-31.2975	-60.245	
+405	admin	Coronel Dorrego	Coronel Dorrego, Argentina			-38.72347826086956	-61.24086956521739	
+406	admin	Necochea	Necochea, Argentina			-38.470416666666665	-58.87583333333333	
+407	admin	Coronel Pringles	Coronel Pringles, Argentina			-36.81285714285714	-62.49428571428571	
+408	admin	Patagones	Patagones, Argentina			-40.440555555555555	-62.78944444444445	
+409	admin	Saavedra	Saavedra, Argentina			-37.70428571428572	-62.4	
+410	admin	Pirané	Pirané, Argentina			-25.863333333333333	-59.27333333333333	
+411	admin	Corrientes	Corrientes, Argentina			-28.66	-57.63	CN
+412	admin	Guachipas	Guachipas, Argentina			-25.52	-65.53	
+413	admin	Guaminí	Guaminí, Argentina			-36.85	-62.45399999999999	
+414	admin	San Fernando	San Fernando, Argentina			-27.474444444444444	-59.00277777777777	
+415	admin	Tres Lomas	Tres Lomas, Argentina			-36.540000000000006	-62.885000000000005	
+416	admin	Balcarce	Balcarce, Argentina			-37.8368	-58.2868	
+417	admin	Tierra del Fuego	Tierra del Fuego, Argentina			-54.362	-67.638	TF
+418	admin	Rosario de Lerma	Rosario de Lerma, Argentina			-24.93	-65.61375	
+419	admin	Brandsen	Brandsen, Argentina			-35.27076923076923	-58.069769230769225	
+420	admin	Calamuchita	Calamuchita, Argentina			-32.09090909090909	-64.52909090909091	
+421	admin	Bermejo	Bermejo, Argentina			-25.374285714285715	-60.212857142857146	
+422	admin	Huiliches	Huiliches, Argentina			-39.93	-71.08	
+423	admin	Libertador General San Martín	Libertador General San Martín, Argentina			-28.239285714285717	-58.86535714285714	
+424	admin	Chamical	Chamical, Argentina			-30.35	-66.32	
+425	admin	Mártires	Mártires, Argentina			-43.545	-67.475	
+426	admin	1º de Mayo	1º de Mayo, Argentina			-27.299999999999997	-58.95	
+427	admin	Hucal	Hucal, Argentina			-37.92	-63.720000000000006	
+428	admin	Alberti	Alberti, Argentina			-35.012352941176474	-60.28941176470589	
+429	admin	Florentino Ameghino	Florentino Ameghino, Argentina			-37.05777777777777	-63.26555555555555	
+430	admin	Quebrachos	Quebrachos, Argentina			-29.3	-63.47	
+431	admin	Río Cuarto	Río Cuarto, Argentina			-33.24238636363636	-64.44181818181818	
+432	admin	Luján de Cuyo	Luján de Cuyo, Argentina			-33.053333333333335	-68.96499999999999	
+433	admin	Punilla	Punilla, Argentina			-31.22842857142857	-64.51514285714286	
+434	admin	Metán	Metán, Argentina			-25.3525	-64.855	
+435	admin	Toay	Toay, Argentina			-36.6975	-64.365	
+436	admin	Ñorquín	Ñorquín, Argentina			-37.6225	-70.645	
+437	admin	O'Higgins	O'Higgins, Argentina			-27.17	-60.64666666666667	
+438	admin	Pellegrini	Pellegrini, Argentina			-32.73857142857143	-63.52928571428571	
+439	admin	Graneros	Graneros, Argentina			-27.703333333333333	-65.3	
+440	admin	Mayor Luis J. Fontana	Mayor Luis J. Fontana, Argentina			-27.616153846153846	-60.776923076923076	
+441	admin	San Nicolás	San Nicolás, Argentina			-33.389607843137256	-60.249411764705876	
+442	admin	Santa Catalina	Santa Catalina, Argentina			-22.127999999999997	-66.114	
+443	admin	San Rafael	San Rafael, Argentina			-34.71368421052631	-68.3371052631579	
+444	admin	Federación	Federación, Argentina			-30.78857142857143	-58.01428571428572	
+445	admin	Punta Indio	Punta Indio, Argentina			-35.20923076923077	-57.46961538461539	
+446	admin	Famatina	Famatina, Argentina			-28.67666666666667	-67.55111111111111	
+447	admin	Federal	Federal, Argentina			-31.034	-58.94	
+448	admin	Ayacucho	Ayacucho, Argentina			-34.397777777777776	-62.67666666666667	
+449	admin	Capitán Sarmiento	Capitán Sarmiento, Argentina			-34.172222222222224	-59.80777777777777	
+450	admin	Lihuel Calel	Lihuel Calel, Argentina			-38.33	-64.62	
+451	admin	Sargento Cabral	Sargento Cabral, Argentina			-26.798000000000002	-59.6	
+452	admin	Río Chico	Río Chico, Argentina			-33.348571428571425	-67.05571428571429	
+453	admin	Ituzaingó	Ituzaingó, Argentina			-27.5875	-56.643125	
+454	admin	Ischilín	Ischilín, Argentina			-30.465	-64.369375	
+455	admin	Valcheta	Valcheta, Argentina			-40.7	-66.15	
+456	admin	Confluencia	Confluencia, Argentina			-38.95360655737705	-68.21442622950819	
+457	admin	Guaymallén	Guaymallén, Argentina			-32.43	-67.95	
+458	admin	Iriondo	Iriondo, Argentina			-32.71894736842105	-61.25026315789473	
+459	admin	Comandante Fernández	Comandante Fernández, Argentina			-26.796666666666667	-60.44222222222223	
+460	admin	Añelo	Añelo, Argentina			-38.35	-68.78	
+461	admin	Leales	Leales, Argentina			-27.108333333333334	-65.23333333333333	
+462	admin	Santa Bárbara	Santa Bárbara, Argentina			-24.084	-64.50399999999999	
+463	admin	Caucete	Caucete, Argentina			-31.626666666666665	-67.96166666666666	
+464	admin	Robles	Robles, Argentina			-27.843333333333334	-64.04	
+465	admin	Navarro	Navarro, Argentina			-35.013333333333335	-59.324666666666666	
+466	admin	Almirante Brown	Almirante Brown, Argentina			-26.46	-61.305	
+467	admin	Bragado	Bragado, Argentina			-35.055217391304346	-60.5745652173913	
+468	admin	Pichi Mahuida	Pichi Mahuida, Argentina			-39.025000000000006	-64.065	
+469	admin	Curacó	Curacó, Argentina			-38.435	-66.16	
+470	admin	Campana	Campana, Argentina			-34.45712797619048	-58.785446428571426	
+471	admin	Antofagasta de la Sierra	Antofagasta de la Sierra, Argentina			-26.713333333333335	-66.80666666666667	
+472	admin	Quemú Quemú	Quemú Quemú, Argentina			-36.13166666666667	-63.685	
+473	admin	Colón	Colón, Argentina			-31.650898876404494	-63.53988764044944	
+474	admin	General Angel V. Peñaloza	General Angel V. Peñaloza, Argentina			-30.335	-66.53999999999999	
+475	admin	Cañuelas	Cañuelas, Argentina			-34.85413043478261	-58.63695652173913	
+476	admin	Mitre	Mitre, Argentina			-29.4	-62.78	
+477	admin	Deseado	Deseado, Argentina			-46.75055555555556	-67.59222222222223	
+478	admin	Güer Aike	Güer Aike, Argentina			-51.675185185185185	-69.72148148148148	
+479	admin	Sarmiento	Sarmiento, Argentina			-33.92666666666667	-68.16666666666667	
+480	admin	La Plata	La Plata, Argentina			-34.91558333333333	-57.95041666666667	
+481	admin	Cachi	Cachi, Argentina			-25.065	-66.14	
+482	admin	Berón de Astrada	Berón de Astrada, Argentina			-27.465	-57.615	
+483	admin	Rosario Vera Peñaloza	Rosario Vera Peñaloza, Argentina			-31.285	-66.46	
+484	admin	Tornquist	Tornquist, Argentina			-38.20272727272727	-62.05090909090909	
+485	admin	Banda	Banda, Argentina			-27.668666666666663	-64.26866666666666	
+486	admin	San Lorenzo	San Lorenzo, Argentina			-32.618125	-60.83645833333333	
+487	admin	Corpen Aike	Corpen Aike, Argentina			-50.0	-68.71000000000001	
+488	admin	Tinogasta	Tinogasta, Argentina			-27.778333333333332	-67.53583333333333	
+489	admin	Angaco	Angaco, Argentina			-31.5284375	-68.5728125	
+490	admin	Puelén	Puelén, Argentina			-37.584999999999994	-67.65	
+491	admin	Curuzú Cuatiá	Curuzú Cuatiá, Argentina			-29.756666666666668	-58.15222222222222	
+492	admin	Paclín	Paclín, Argentina			-28.236666666666668	-65.635	
+493	admin	General Pinto	General Pinto, Argentina			-34.70727272727273	-61.99272727272727	
+494	admin	Capayán	Capayán, Argentina			-28.828888888888887	-65.9388888888889	
+495	admin	San Javier	San Javier, Argentina			-30.340625	-60.943125	
+496	admin	Río Segundo	Río Segundo, Argentina			-31.731428571428573	-63.55976190476191	
+497	admin	Suipacha	Suipacha, Argentina			-34.778000000000006	-59.698	
+498	admin	La Poma	La Poma, Argentina			-24.2	-66.225	
+499	admin	General Villegas	General Villegas, Argentina			-34.888571428571424	-63.03457142857143	
+500	admin	Bolívar	Bolívar, Argentina			-36.29	-61.20238095238095	
+501	admin	Figueroa	Figueroa, Argentina			-27.435000000000002	-63.515	
+502	admin	Lago Buenos Aires	Lago Buenos Aires, Argentina			-46.575	-71.275	
+503	admin	Loreto	Loreto, Argentina			-28.3	-64.2	
+504	admin	Chubut	Chubut, Argentina			-43.3	-65.1	CH
+505	admin	Pila	Pila, Argentina			-36.16	-58.34	
+506	admin	Cushamen	Cushamen, Argentina			-42.330000000000005	-71.22666666666667	
+507	admin	Guaraní	Guaraní, Argentina			-26.995384615384616	-54.399230769230776	
+508	admin	General Roca	General Roca, Argentina			-37.561217391304346	-66.45860869565217	
+509	admin	Realicó	Realicó, Argentina			-35.15294117647059	-64.21411764705881	
+510	admin	Vera	Vera, Argentina			-28.99230769230769	-60.14923076923076	
+511	admin	Coronel Felipe Varela	Coronel Felipe Varela, Argentina			-29.44	-68.045	
+512	admin	El Alto	El Alto, Argentina			-28.438333333333333	-65.36	
+513	admin	ChosMalal	ChosMalal, Argentina			-37.215	-70.29499999999999	
+514	admin	Rosario de la Frontera	Rosario de la Frontera, Argentina			-25.944	-64.768	
+515	admin	Limay Mahuida	Limay Mahuida, Argentina			-37.375	-66.465	
+516	admin	La Rioja	La Rioja, Argentina			-29.433333	-66.85	LR
+517	admin	Fray Mamerto Esquiú	Fray Mamerto Esquiú, Argentina			-28.457857142857144	-65.72714285714285	
+518	admin	Tupungato	Tupungato, Argentina			-33.26083333333333	-69.04583333333333	
+519	admin	Tordillo	Tordillo, Argentina			-36.455555555555556	-57.33111111111111	
+520	admin	Río Seco	Río Seco, Argentina			-30.052	-63.60699999999999	
+521	admin	General Paz	General Paz, Argentina			-33.657647058823535	-58.195882352941176	
+522	admin	Ledesma	Ledesma, Argentina			-23.84642857142857	-64.78285714285714	
+523	admin	Río Hondo	Río Hondo, Argentina			-27.47875	-64.74875	
+524	admin	Patiño	Patiño, Argentina			-25.125714285714285	-59.99285714285714	
+525	admin	La Viña	La Viña, Argentina			-25.395	-65.53999999999999	
+526	admin	Tercero Arriba	Tercero Arriba, Argentina			-32.178666666666665	-63.86333333333333	
+527	admin	Susques	Susques, Argentina			-23.43166666666667	-66.69833333333334	
+528	admin	Cafayate	Cafayate, Argentina			-26.14	-65.945	
+529	admin	General Guido	General Guido, Argentina			-37.07555555555555	-58.208888888888886	
+530	admin	Magallanes	Magallanes, Argentina			-49.3	-67.72	
+531	admin	Daireaux	Daireaux, Argentina			-36.51222222222222	-61.93222222222222	
+532	admin	Mendoza	Mendoza, Argentina			-32.947043478260866	-68.808	MZ
+533	admin	Aguirre	Aguirre, Argentina			-29.25	-62.545	
+534	admin	Río Senguer	Río Senguer, Argentina			-45.36333333333334	-70.70333333333333	
+535	admin	Carlos Casares	Carlos Casares, Argentina			-35.649795918367346	-61.38612244897959	
+536	admin	General Juan Madariaga	General Juan Madariaga, Argentina			-37.060833333333335	-57.06666666666666	
+537	admin	Pergamino	Pergamino, Argentina			-33.87305555555556	-60.54361111111112	
+538	admin	San Cayetano	San Cayetano, Argentina			-38.34	-59.7	
+539	admin	Laishi	Laishi, Argentina			-26.744285714285716	-58.355000000000004	
+540	admin	San Carlos	San Carlos, Argentina			-31.527142857142856	-68.21285714285715	
+541	admin	La Capital	La Capital, Argentina			-32.1785534591195	-62.631194968553466	
+542	admin	2 de Abril	2 de Abril, Argentina			-27.54	-61.335	
+543	admin	La Cocha	La Cocha, Argentina			-27.78	-65.57	
+544	admin	Trenel	Trenel, Argentina			-35.693333333333335	-64.13	
+545	admin	General Taboada	General Taboada, Argentina			-28.552	-62.282000000000004	
+546	admin	Tafí Viejo	Tafí Viejo, Argentina			-26.705	-65.27	
+547	admin	La Pampa	La Pampa, Argentina			-36.62485714285714	-64.28314285714285	LP
+548	admin	Lincoln	Lincoln, Argentina			-35.070317460317455	-61.9131746031746	
+549	admin	Oberá	Oberá, Argentina			-27.50142857142857	-55.095000000000006	
+550	admin	Humahuaca	Humahuaca, Argentina			-23.12	-65.435	
+551	admin	Cochinoca	Cochinoca, Argentina			-23.06833333333333	-65.90666666666667	
+552	admin	Escalante	Escalante, Argentina			-45.8404081632653	-67.52714285714285	
+553	admin	Cerrillos	Cerrillos, Argentina			-24.909	-65.48299999999999	
+554	admin	Esquina	Esquina, Argentina			-30.018333333333334	-59.531666666666666	
+555	admin	Distrito Federal	Distrito Federal, Argentina			-34.693274253731346	-58.45003731343284	DF
+556	admin	Empedrado	Empedrado, Argentina			-27.825	-58.785	
+557	admin	General Manuel Belgrano	General Manuel Belgrano, Argentina			-26.185000000000002	-53.7	
+558	admin	San Antonio de Areco	San Antonio de Areco, Argentina			-34.22571428571429	-59.47095238095238	
+559	admin	Concordia	Concordia, Argentina			-31.410952380952384	-58.0668253968254	
+560	admin	General Ocampo	General Ocampo, Argentina			-30.975	-66.2	
+561	admin	Pilcaniyeu	Pilcaniyeu, Argentina			-41.03	-70.27	
+562	admin	Anta	Anta, Argentina			-24.896428571428572	-64.07357142857143	
+563	admin	Molinos	Molinos, Argentina			-25.36	-66.285	
+564	admin	Córdoba	Córdoba, Argentina			-31.425652173913043	-64.24237154150198	CB
+565	admin	Adolfo Alsina	Adolfo Alsina, Argentina			-39.550384615384615	-63.0626923076923	
+566	admin	Chaco	Chaco, Argentina			-27.451389	-58.986667	CC
+567	admin	Monte Caseros	Monte Caseros, Argentina			-30.274	-57.836	
+568	admin	Santa María	Santa María, Argentina			-29.214929577464787	-65.37112676056339	
+569	admin	Los Lagos	Los Lagos, Argentina			-41.126875	-71.4175	
+570	admin	Pocito	Pocito, Argentina			-31.82	-68.55	
+571	admin	Nogoyá	Nogoyá, Argentina			-32.33142857142857	-59.91428571428571	
+572	admin	Misiones	Misiones, Argentina			-26.92	-54.52	MN
+573	admin	Tilcara	Tilcara, Argentina			-23.540000000000003	-65.37333333333333	
+574	admin	Belgrano	Belgrano, Argentina			-32.086	-62.4752	
+575	admin	Cruz del Eje	Cruz del Eje, Argentina			-30.782666666666668	-65.03066666666668	
+576	admin	Vinchina	Vinchina, Argentina			-28.63	-68.4	
+577	admin	Dr. Manuel Belgrano	Dr. Manuel Belgrano, Argentina			-24.125	-65.41	
+578	admin	La Costa	La Costa, Argentina			-36.50533333333333	-56.73133333333333	
+579	admin	General Lavalle	General Lavalle, Argentina			-35.39	-58.01	
+580	admin	General Viamonte	General Viamonte, Argentina			-34.985	-61.0061111111111	
+581	admin	Villaguay	Villaguay, Argentina			-32.0172972972973	-58.55324324324324	
+582	admin	Catriló	Catriló, Argentina			-36.46	-63.589999999999996	
+583	admin	Lobería	Lobería, Argentina			-38.13666666666666	-58.7875	
+584	admin	General Las Heras	General Las Heras, Argentina			-34.74716535433071	-58.78015748031496	
+585	admin	Rivadavia	Rivadavia, Argentina			-32.487500000000004	-63.41818181818182	
+586	admin	Mar Chiquita	Mar Chiquita, Argentina			-37.66121212121212	-57.627878787878785	
+587	admin	Telsen	Telsen, Argentina			-42.4	-66.95	
+588	admin	Feliciano	Feliciano, Argentina			-30.43	-58.885000000000005	
+589	admin	Mercedes	Mercedes, Argentina			-34.32484848484849	-59.335757575757576	
+590	admin	Iruya	Iruya, Argentina			-23.835	-65.69	
+591	admin	Carmen de Areco	Carmen de Areco, Argentina			-34.41227272727272	-59.879999999999995	
+592	admin	General Obligado	General Obligado, Argentina			-28.866	-59.57571428571429	
+593	admin	Lago Argentino	Lago Argentino, Argentina			-50.27818181818182	-72.23181818181818	
+594	admin	General Lamadrid	General Lamadrid, Argentina			-29.0	-68.18	
+595	admin	Ancasti	Ancasti, Argentina			-28.88	-65.53333333333333	
+596	admin	San Miguel	San Miguel, Argentina			-27.884999999999998	-57.44	
+597	admin	Paso de los Libres	Paso de los Libres, Argentina			-29.712272727272726	-57.15772727272727	
+598	admin	Dolores	Dolores, Argentina			-36.304761904761904	-57.69428571428571	
+599	admin	Tunuyán	Tunuyán, Argentina			-34.03333333333333	-69.22333333333334	
+600	admin	General Güemes	General Güemes, Argentina			-25.022	-63.586666666666666	
+601	admin	Formosa	Formosa, Argentina			-26.14891891891892	-58.226486486486486	FM
+602	admin	Rauch	Rauch, Argentina			-36.77	-59.1	
+603	admin	Tapalqué	Tapalqué, Argentina			-36.36	-59.99846153846154	
+604	admin	Conesa	Conesa, Argentina			-40.1	-64.43	
+605	admin	Constitución	Constitución, Argentina			-33.35914285714286	-60.57742857142857	
+606	admin	Tres Arroyos	Tres Arroyos, Argentina			-38.568695652173915	-60.203478260869566	
+607	admin	Pilcomayo	Pilcomayo, Argentina			-25.289259259259257	-57.73074074074074	
+608	admin	Caseros	Caseros, Argentina			-33.55086419753086	-61.67604938271605	
+609	admin	Chivilcoy	Chivilcoy, Argentina			-34.92172413793104	-59.96689655172413	
+610	admin	San Alberto	San Alberto, Argentina			-31.71578947368421	-64.95368421052632	
+611	admin	Presidencia de la Plaza	Presidencia de la Plaza, Argentina			-27.02	-59.85	
+612	admin	Rancul	Rancul, Argentina			-35.243125	-64.706875	
+613	admin	Magdalena	Magdalena, Argentina			-35.1125	-57.5975	
+614	admin	Pomán	Pomán, Argentina			-28.242	-66.187	
+615	admin	Carlos Tejedor	Carlos Tejedor, Argentina			-35.398	-62.468	
+616	admin	Hipólito Yrigoyen	Hipólito Yrigoyen, Argentina			-36.19	-61.57	
+617	admin	Andalgalá	Andalgalá, Argentina			-27.575	-66.31083333333333	
+618	admin	General Donovan	General Donovan, Argentina			-27.16	-59.3775	
+619	admin	General José de San Martín	General José de San Martín, Argentina			-22.68375	-63.78916666666667	
+620	admin	San Juan	San Juan, Argentina			-31.531818181818185	-68.5340909090909	SJ
+621	admin	La Candelaria	La Candelaria, Argentina			-26.099999999999998	-65.25333333333333	
+622	admin	La Caldera	La Caldera, Argentina			-24.6	-65.38	
+623	admin	Calingasta	Calingasta, Argentina			-31.34	-69.42	
+624	admin	Chascomús	Chascomús, Argentina			-35.72	-57.96	
+625	admin	Río Negro	Río Negro, Argentina			-40.8	-63.0	RN
+626	admin	25 de Mayo	25 de Mayo, Argentina			-34.898125	-60.19875	
+627	admin	Cruz Alta	Cruz Alta, Argentina			-26.875	-65.11966666666666	
+628	admin	Picún Leufú	Picún Leufú, Argentina			-39.52	-69.25	
+629	admin	Maipú	Maipú, Argentina			-33.91914893617022	-65.59148936170213	
+630	admin	San Antonio	San Antonio, Argentina			-40.94136363636364	-65.06454545454545	
+631	admin	Yavi	Yavi, Argentina			-22.25857142857143	-65.53	
+632	admin	Salavina	Salavina, Argentina			-28.853333333333335	-63.47666666666667	
+633	admin	Roque Pérez	Roque Pérez, Argentina			-35.45	-59.215	
+634	admin	Presidente Roque Sáenz Peña	Presidente Roque Sáenz Peña, Argentina			-34.209	-63.413	
+635	admin	Trenque Lauquen	Trenque Lauquen, Argentina			-36.11482142857143	-62.644285714285715	
+636	admin	Bariloche	Bariloche, Argentina			-41.17153846153846	-71.33346153846153	
+637	admin	Moreno	Moreno, Argentina			-27.235454545454544	-62.560909090909085	
+638	admin	San Pedro	San Pedro, Argentina			-31.109444444444446	-60.84361111111111	
+639	admin	Tehuelches	Tehuelches, Argentina			-44.10666666666666	-70.80333333333333	
+640	admin	Collón Curá	Collón Curá, Argentina			-39.959999999999994	-70.08	
+641	admin	Monte	Monte, Argentina			-35.49090909090909	-58.77181818181818	
+642	admin	Candelaria	Candelaria, Argentina			-27.43875	-55.57625	
+643	admin	Santa Fe	Santa Fe, Argentina			-33.7227	-62.246	SF
+644	admin	Azul	Azul, Argentina			-36.85628571428572	-59.91257142857143	
+645	admin	San Ignacio	San Ignacio, Argentina			-27.13888888888889	-55.44777777777777	
+646	admin	Loventué	Loventué, Argentina			-36.268	-65.336	
+647	admin	Chicoana	Chicoana, Argentina			-25.09	-65.50999999999999	
+648	admin	Monte Hermoso	Monte Hermoso, Argentina			-38.977	-61.306	
+649	admin	Adolfo Gonzales Chaves	Adolfo Gonzales Chaves, Argentina			-38.03272727272727	-60.17090909090909	
+650	admin	Ramallo	Ramallo, Argentina			-33.51285714285714	-60.06642857142857	
+651	admin	Pinamar	Pinamar, Argentina			-37.106153846153845	-56.861538461538466	
+652	admin	Rinconada	Rinconada, Argentina			-22.43	-66.17	
+653	admin	Choya	Choya, Argentina			-28.455	-64.89333333333333	
+654	admin	Languiñeo	Languiñeo, Argentina			-43.2575	-70.525	
+655	admin	Malargüe	Malargüe, Argentina			-35.83	-69.22666666666667	
+656	admin	Santiago del Estero	Santiago del Estero, Argentina			-27.797962962962963	-64.27796296296297	SE
+657	admin	Junín	Junín, Argentina			-33.84862068965517	-62.56568965517241	
+658	admin	San Salvador	San Salvador, Argentina			-31.575000000000003	-58.45	
+659	admin	General Belgrano	General Belgrano, Argentina			-34.52	-59.915416666666665	
+660	admin	Unión	Unión, Argentina			-32.85037037037037	-62.81481481481482	
+661	admin	Baradero	Baradero, Argentina			-33.878750000000004	-59.5025	
+662	admin	General San Martín	General San Martín, Argentina			-32.38595238095238	-63.334761904761905	
+663	admin	Laprida	Laprida, Argentina			-37.498125	-60.816875	
+664	admin	Concepción	Concepción, Argentina			-28.161666666666665	-56.79333333333333	
+665	admin	Río Grande	Río Grande, Argentina			-53.8564	-67.6916	
+666	admin	Santa Fé	Santa Fé, Argentina			-32.979825581395346	-60.68023255813954	
+667	admin	Iglesia	Iglesia, Argentina			-30.245	-69.20166666666667	
+668	admin	Simoca	Simoca, Argentina			-27.413999999999998	-65.364	
+669	admin	Castro Barros	Castro Barros, Argentina			-28.797142857142855	-66.94000000000001	
+670	admin	Itatí	Itatí, Argentina			-27.32	-58.285	
+671	admin	Trancas	Trancas, Argentina			-26.314999999999998	-65.405	
+672	admin	Capital	Capital, Argentina			-27.69787037037037	-58.28685185185185	
+673	admin	Libertad	Libertad, Argentina			-27.42304347826087	-59.02695652173912	
+674	admin	Exaltación de la Cruz	Exaltación de la Cruz, Argentina			-34.34357142857143	-59.10214285714285	
+675	admin	Puán	Puán, Argentina			-37.89181818181818	-62.93818181818181	
+676	admin	Valle Fértil	Valle Fértil, Argentina			-30.7375	-67.46000000000001	
+677	admin	Zárate	Zárate, Argentina			-34.10225806451613	-59.0916129032258	
+678	admin	Buenos Aires	Buenos Aires, Argentina			-34.95544303797468	-58.18227848101265	
+679	admin	Copo	Copo, Argentina			-26.00857142857143	-62.69714285714286	
+680	admin	Maracó	Maracó, Argentina			-35.63206896551724	-63.72551724137931	
+681	admin	Las Colonias	Las Colonias, Argentina			-31.677594936708864	-61.02544303797469	
+682	admin	San Luis del Palmar	San Luis del Palmar, Argentina			-27.52	-58.57	
+683	admin	Sobremonte	Sobremonte, Argentina			-29.84	-64.045	
+684	admin	Alberdi	Alberdi, Argentina			-26.665	-62.735	
+685	admin	Pehuajó	Pehuajó, Argentina			-36.057094017094016	-61.786923076923074	
+686	admin	Gaiman	Gaiman, Argentina			-43.475	-65.95	
+687	admin	Belén	Belén, Argentina			-27.406666666666666	-66.99	
+688	admin	Pocho	Pocho, Argentina			-31.35	-65.145	
+689	admin	La Paz	La Paz, Argentina			-30.228571428571428	-63.6152380952381	
+690	admin	Jujuy	Jujuy, Argentina			-24.1896	-65.314	JY
+691	admin	Río Primero	Río Primero, Argentina			-31.139696969696967	-63.62090909090909	
+692	admin	Conhelo	Conhelo, Argentina			-36.053333333333335	-64.355	
+693	admin	Mburucuyá	Mburucuyá, Argentina			-28.05	-58.23	
+694	admin	Chicligasta	Chicligasta, Argentina			-27.35705882352941	-65.59176470588235	
+695	admin	Benito Juárez	Benito Juárez, Argentina			-37.58	-59.598	
+696	admin	Lobos	Lobos, Argentina			-35.2025	-59.1375	
+697	admin	Chacabuco	Chacabuco, Argentina			-33.24119047619048	-61.32928571428571	
+698	admin	Utracán	Utracán, Argentina			-37.29666666666667	-64.60000000000001	
+699	admin	Tucumán	Tucumán, Argentina			-26.828	-65.21953846153845	TM
+700	admin	Santa Rosa	Santa Rosa, Argentina			-30.06625	-66.38375	
+701	admin	Rosario	Rosario, Argentina			-33.047428571428576	-60.732571428571426	
+702	admin	San Vicente	San Vicente, Argentina			-34.99119047619048	-58.391190476190474	
+703	admin	Victoria	Victoria, Argentina			-32.6355	-60.2035	
+704	admin	Arauco	Arauco, Argentina			-28.6175	-66.6625	
+705	admin	Tala	Tala, Argentina			-32.245714285714286	-59.275	
+706	admin	Santo Tomé	Santo Tomé, Argentina			-28.38047619047619	-56.02619047619047	
+707	admin	Leandro N. Alem	Leandro N. Alem, Argentina			-32.01416666666667	-59.30944444444444	
+708	admin	Santa Victoria	Santa Victoria, Argentina			-22.456666666666667	-64.98333333333333	
+709	admin	9 de Julio	9 de Julio, Argentina			-34.0472131147541	-62.107540983606555	
+710	admin	Gastre	Gastre, Argentina			-42.725	-68.825	
+711	admin	Paso de Indios	Paso de Indios, Argentina			-43.87	-69.1	
+712	admin	Ojo de Agua	Ojo de Agua, Argentina			-29.535	-63.575	
+713	admin	San Jerónimo	San Jerónimo, Argentina			-32.150999999999996	-61.068	
+714	admin	Pehuenches	Pehuenches, Argentina			-36.935	-69.875	
+715	admin	San Roque	San Roque, Argentina			-28.78333333333333	-58.71	
+716	admin	Saladillo	Saladillo, Argentina			-35.635714285714286	-59.75333333333333	
+717	admin	Villarino	Villarino, Argentina			-39.1621052631579	-62.65105263157894	
+718	admin	Neuquén	Neuquén, Argentina			-38.951667	-68.074444	NQ
+719	admin	Futaleufú	Futaleufú, Argentina			-43.056666666666665	-71.41583333333334	
+720	admin	San Martín	San Martín, Argentina			-31.694615384615382	-62.34487179487179	
+721	admin	Caleu Caleu	Caleu Caleu, Argentina			-38.97	-63.85	
+722	admin	Tandil	Tandil, Argentina			-37.32380952380952	-59.14190476190476	
+723	admin	Rawson	Rawson, Argentina			-43.29228571428572	-65.23114285714286	
+724	admin	Tapenagá	Tapenagá, Argentina			-27.601999999999997	-59.92	
+725	admin	Salliqueló	Salliqueló, Argentina			-36.665	-63.015	
+726	admin	Castellanos	Castellanos, Argentina			-31.23301369863014	-61.602602739726024	
+727	admin	Castelli	Castelli, Argentina			-36.093636363636364	-57.809090909090905	
+728	admin	Lácar	Lácar, Argentina			-40.14714285714285	-71.31285714285714	
+729	admin	Las Heras	Las Heras, Argentina			-32.818000000000005	-69.12342857142858	
+730	admin	Gualeguaychú	Gualeguaychú, Argentina			-32.9728	-58.6288	
+731	admin	Bahía Blanca	Bahía Blanca, Argentina			-38.71585365853658	-62.25817073170732	
+732	admin	Burruyacú	Burruyacú, Argentina			-26.669999999999998	-65.008	
+733	admin	Cainguás	Cainguás, Argentina			-27.17	-54.945	
+734	admin	Las Flores	Las Flores, Argentina			-36.023125	-59.131875	
+735	admin	Goya	Goya, Argentina			-29.149	-59.259	
+736	admin	General López	General López, Argentina			-33.842666666666666	-61.85966666666666	
+737	admin	El Carmen	El Carmen, Argentina			-24.416875	-65.143125	
+738	admin	Chapaleufú	Chapaleufú, Argentina			-35.18	-63.676875	
+739	admin	Yerba Buena	Yerba Buena, Argentina			-26.784230769230767	-65.27365384615385	
+740	admin	Ambato	Ambato, Argentina			-28.004	-65.841	
+741	admin	Pilagás	Pilagás, Argentina			-25.09	-58.61	
+742	admin	General Pedernera	General Pedernera, Argentina			-33.59607142857143	-65.425	
+743	admin	Guatraché	Guatraché, Argentina			-37.565	-63.629	
+744	admin	Diamante	Diamante, Argentina			-32.04352941176471	-60.51617647058824	
+745	admin	Guasayán	Guasayán, Argentina			-28.2	-65.13	
+746	admin	Picunches	Picunches, Argentina			-38.483333333333334	-70.24333333333334	
+747	admin	Coronel de Marina Leonardo Rosales	Coronel de Marina Leonardo Rosales, Argentina			-38.838727272727276	-62.07181818181818	
+748	admin	Avellaneda	Avellaneda, Argentina			-37.1468	-65.1916	
+749	admin	Sauce	Sauce, Argentina			-30.08	-58.77	
+750	admin	Famaillá	Famaillá, Argentina			-27.05	-65.4	
+751	admin	San Cosme	San Cosme, Argentina			-27.39	-58.6	
+752	admin	General Alvear	General Alvear, Argentina			-35.490434782608695	-61.512173913043476	
+753	admin	Tafí del Valle	Tafí del Valle, Argentina			-26.80727272727273	-65.74272727272727	
+754	admin	Santa Cruz	Santa Cruz, Argentina			-48.62	-70.01	SC
+755	admin	Totoral	Totoral, Argentina			-30.758999999999997	-64.029	
+756	admin	Silípica	Silípica, Argentina			-28.130000000000003	-64.16499999999999	
+757	admin	Luján	Luján, Argentina			-34.57976377952756	-59.06503937007874	
+758	admin	Lavalle	Lavalle, Argentina			-31.214999999999996	-64.76	
+759	admin	Arrecifes	Arrecifes, Argentina			-34.04875	-60.135	
+760	admin	Juan F. Ibarra	Juan F. Ibarra, Argentina			-27.988333333333333	-62.73166666666666	
+761	admin	Iguazú	Iguazú, Argentina			-25.671818181818182	-54.54409090909091	
+762	admin	Orán	Orán, Argentina			-23.132499999999997	-64.33333333333333	
+763	admin	General Pueyrredón	General Pueyrredón, Argentina			-38.0044262295082	-57.59830601092896	
+764	admin	Salto	Salto, Argentina			-34.31476190476191	-60.25761904761905	
+765	admin	Uruguay	Uruguay, Argentina			-32.42193548387097	-58.531612903225806	
+766	admin	Catamarca	Catamarca, Argentina			-28.466667	-65.783333	CT
+767	admin	Salta	Salta, Argentina			-24.80112359550562	-65.42640449438203	SA
+768	admin	Minas	Minas, Argentina			-33.37230769230769	-67.39538461538461	
+769	admin	Los Andes	Los Andes, Argentina			-24.41	-66.83333333333333	
+770	admin	Gualeguay	Gualeguay, Argentina			-33.35578947368421	-59.183157894736844	
+771	admin	Olavarría	Olavarría, Argentina			-36.90730158730158	-60.318730158730155	
+772	admin	Chilecito	Chilecito, Argentina			-29.232	-67.534	
+773	admin	Juan B. Alberdi	Juan B. Alberdi, Argentina			-27.52	-65.62	
+774	admin	Eldorado	Eldorado, Argentina			-26.2	-54.6	
+775	admin	Montecarlo	Montecarlo, Argentina			-26.54	-54.755	
+776	admin	San Luis	San Luis, Argentina			-33.3	-66.35	SL
+777	admin	Gobernador Dupuy	Gobernador Dupuy, Argentina			-35.12461538461538	-65.74923076923076	
+778	admin	San Cristóbal	San Cristóbal, Argentina			-30.324242424242424	-61.50424242424243	
+779	admin	General Arenales	General Arenales, Argentina			-34.24095238095238	-61.175714285714285	
+780	admin	Lules	Lules, Argentina			-26.907692307692308	-65.32538461538462	
+781	admin	Atamisqui	Atamisqui, Argentina			-28.543333333333333	-63.836666666666666	
+782	admin	Valle Viejo	Valle Viejo, Argentina			-28.5	-65.655	
+783	admin	Catán Lil	Catán Lil, Argentina			-39.55	-70.58	
+784	admin	Loncopué	Loncopué, Argentina			-37.985	-70.375	
+785	admin	Independencia	Independencia, Argentina			-28.07	-63.315999999999995	
+786	admin	San Justo	San Justo, Argentina			-31.06054794520548	-61.863424657534246	
+787	admin	Jáchal	Jáchal, Argentina			-30.30333333333333	-68.61	
+788	admin	Saladas	Saladas, Argentina			-28.185000000000002	-58.7	
+789	admin	Juárez Celman	Juárez Celman, Argentina			-33.75433962264151	-63.58471698113207	
+790	admin	Monteros	Monteros, Argentina			-27.165	-65.505	
+791	admin	Chical Co	Chical Co, Argentina			-36.39	-67.575	
+792	admin	Paraná	Paraná, Argentina			-31.720537634408604	-60.330322580645166	
+793	admin	Chalileo	Chalileo, Argentina			-36.25	-66.93	
+794	admin	Corozal	Corozal, Belize			18.4	-88.39	
+795	admin	Cayo	Cayo, Belize			17.22	-88.8488888888889	
+796	admin	Orange Walk	Orange Walk, Belize			18.09	-88.56	
+797	admin	Toledo	Toledo, Belize			16.1	-88.81	
+798	admin	Belize	Belize, Belize			17.572857142857142	-88.22857142857143	
+799	admin	Stann Creek	Stann Creek, Belize			16.97	-88.22	
+800	admin	Río San Juan	Río San Juan, Nicaragua			11.295	-84.59333333333333	
+801	admin	Granada	Granada, Nicaragua			11.909411764705883	-85.97941176470589	
+802	admin	Jinotega	Jinotega, Nicaragua			13.31625	-85.9275	
+803	admin	Carazo	Carazo, Nicaragua			11.847894736842104	-86.22947368421052	
+804	admin	Madriz	Madriz, Nicaragua			13.456666666666667	-86.47666666666666	
+805	admin	Boaco	Boaco, Nicaragua			12.463333333333333	-85.68833333333333	
+806	admin	Atlántico Norte	Atlántico Norte, Nicaragua			13.78	-84.3825	
+807	admin	Managua	Managua, Nicaragua			12.1064	-86.2527	
+808	admin	Chinandega	Chinandega, Nicaragua			12.718571428571428	-87.09333333333333	
+809	admin	Estelí	Estelí, Nicaragua			13.098571428571429	-86.37642857142858	
+810	admin	Rivas	Rivas, Nicaragua			11.434000000000001	-85.78	
+811	admin	León	León, Nicaragua			12.51086956521739	-86.77	
+812	admin	Chontales	Chontales, Nicaragua			12.126470588235295	-85.2835294117647	
+813	admin	Atlántico Sur	Atlántico Sur, Nicaragua			12.343	-84.09700000000001	
+814	admin	Nueva Segovia	Nueva Segovia, Nicaragua			13.69090909090909	-86.31272727272727	
+815	admin	Matagalpa	Matagalpa, Nicaragua			12.857647058823531	-85.81294117647059	
+816	admin	Masaya	Masaya, Nicaragua			11.967333333333332	-86.10177777777777	
+817	admin	Pastaza	Pastaza, Ecuador			-1.48	-77.99	PA
+818	admin	Loja	Loja, Ecuador			-4.013684210526316	-79.29710526315789	LJ
+819	admin	Pichincha	Pichincha, Ecuador			-0.21556962025316456	-78.56322784810126	PC
+820	admin	Guayas	Guayas, Ecuador			-2.1504065040650406	-80.03841463414635	GY
+821	admin	Morona Santiago	Morona Santiago, Ecuador			-2.4625	-78.2025	MS
+822	admin	Manabí	Manabí, Ecuador			-0.8807092198581561	-80.39964539007093	MN
+823	admin	Cañar	Cañar, Ecuador			-2.471	-79.253	CN
+824	admin	Napo	Napo, Ecuador			-0.98125	-77.815	NA
+825	admin	Imbabura	Imbabura, Ecuador			0.32325	-78.17375	IM
+826	admin	Zamora Chinchipe	Zamora Chinchipe, Ecuador			-3.96	-78.86	ZC
+827	admin	Carchi	Carchi, Ecuador			0.13333333333333333	-77.83999999999999	CR
+828	admin	Orellana	Orellana, Ecuador			-0.4807142857142857	-77.00928571428572	OR
+829	admin	Chimborazo	Chimborazo, Ecuador			-1.6851999999999998	-78.6648	CB
+830	admin	El Oro	El Oro, Ecuador			-3.383368421052632	-79.97115789473685	EO
+831	admin	Cotopaxi	Cotopaxi, Ecuador			-0.9334615384615385	-78.89076923076922	CT
+832	admin	Azuay	Azuay, Ecuador			-2.887936507936508	-79.00253968253968	AZ
+833	admin	Santo Domingo de los Tsáchilas	Santo Domingo de los Tsáchilas, Ecuador			-0.333333	-79.25	SD
+834	admin	Esmeraldas	Esmeraldas, Ecuador			0.8413636363636364	-79.64727272727272	ES
+835	admin	Los Ríos	Los Ríos, Ecuador			-1.5107042253521128	-79.53253521126761	LR
+836	admin	Sucumbíos	Sucumbíos, Ecuador			0.1	-76.87	SU
+837	admin	Galápagos	Galápagos, Ecuador			-0.7611111111111111	-90.15777777777777	GA
+838	admin	Santa Elena	Santa Elena, Ecuador			-2.2267	-80.8583	SE
+839	admin	Tungurahua	Tungurahua, Ecuador			-1.2642857142857142	-78.60809523809523	TU
+840	admin	Bolívar	Bolívar, Ecuador			-1.52	-79.07125	BO

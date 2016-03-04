@@ -1,0 +1,12 @@
+2015-12-11 16:04:02,470 - geo_code_stream - ERROR - 29101 - 139806614656768 - main(62) - Failed to process message "timezone-America/Tegucigalpa not in list
+".
+Traceback (most recent call last):
+  File "geo_country_stream.py", line 55, in main
+    tweet = json.loads(entry.strip())
+  File "/usr/lib/python2.7/json/__init__.py", line 326, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded

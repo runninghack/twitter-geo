@@ -1,0 +1,1066 @@
+1	Avenida Barão de Studart	Sobral	Ceará	Brazil	-3.69	-40.35	0.00205900483873
+2	La Villa	Los Santos	Los Santos	Panama	7.93	-80.42	0.00205900483873
+3	Hospital Integral	Coxcatlán	San Luis Potosí	Mexico	21.54	-98.91	0.00205900483873
+4	Favela Nova Holanda	Seropédica	Rio de Janeiro	Brazil	-22.75	-43.72	0.00205900483873
+5	ciudad de Valera	Trujillo	Trujillo	Venezuela	9.38	-70.44	0.00205900483873
+6	Villa del Parque	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.00205900483873
+7	ciudad de Oruro	La Joya	Oruro	Bolivia	-17.77	-67.48	0.00205900483873
+8	BR-465	Seropédica	Rio de Janeiro	Brazil	-22.75	-43.72	0.00205900483873
+9	Xingu River	Santo Antônio do Tauá	Pará	Brazil	-1.18	-48.14	0.00205900483873
+10	Cemitério do Araçá	Barueri	São Paulo	Brazil	-23.49	-46.86	0.00205900483873
+11	ciudad de Tapachula	Acapetahua	Chiapas	Mexico	15.28	-92.7	0.00205900483873
+12	Valle de Uco	Villa Regina	Río Negro	Argentina	-39.1	-67.07	0.00205900483873
+13	Avenida Oriental	Medellín	Antioquia	Colombia	6.29	-75.54	0.00204661151522
+14	Plaza Minorista	Medellín	Antioquia	Colombia	6.29	-75.54	0.00204661151522
+15	Valle de Aburrá	Medellín	Antioquia	Colombia	6.29	-75.54	0.00204661151522
+16	Ciudad Tiuna	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00204549631361
+17	Valle Abajo	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00204549631361
+18	colonia Escalón	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.00203556860288
+19	Plaza Liberación	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.00198589949326
+20	Liberation Square	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.00198589949326
+21	Palacio de Gobierno Cd	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.00198589949326
+22	Palacio de Monterrey	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.00197457686668
+23	Palacio Locales	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.00197457686668
+24	Plaza Baquedano	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00197382109128
+25	Hospital del Niño Poblano	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.00196349984367
+26	Museu da República	Governador Valadares	Minas Gerais	Brazil	-18.87	-41.97	0.00195372001139
+27	Avenida Epitácio Pessoa	Campina Grande	Paraíba	Brazil	-7.23	-35.88	0.00195372001139
+28	Ravena	Carmópolis de Minas	Minas Gerais	Brazil	-20.55	-44.63	0.00195372001139
+29	SP-101	Louveira	São Paulo	Brazil	-23.07	-46.97	0.00195372001139
+30	Região Metropolitana de Fortaleza	Iguatu	Ceará	Brazil	-6.36	-39.3	0.00195372001139
+31	Avenida Norte-Sul	Louveira	São Paulo	Brazil	-23.07	-46.97	0.00195372001139
+32	ciudad de Concordia	Concordia	Entre Ríos	Argentina	-31.39	-58.03	0.00195372001139
+33	Villa El Triunfo	San Francisco Morazán	Chalatenango	El Salvador	14.18	-89.05	0.00195372001139
+34	Rodovia Saturnino Braga	Angra dos Reis	Rio de Janeiro	Brazil	-23.0	-44.32	0.00195372001139
+35	BR-262	Carmópolis de Minas	Minas Gerais	Brazil	-20.55	-44.63	0.00195372001139
+36	BR-153	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00194325187174
+37	Plaza Los Héroes	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00189506875291
+38	Bulevar de Las Naciones	Acapulco de Juárez	Guerrero	Mexico	16.85	-99.92	0.00189204301486
+39	colonia Tambuco del Fraccionamiento Las Playas	Acapulco de Juárez	Guerrero	Mexico	16.85	-99.92	0.00189204301486
+40	Avenida Professor Francisco Morato	Taboão da Serra	São Paulo	Brazil	-23.6	-46.78	0.00187906597763
+41	Cerro Lago	San Carlos	Maldonado	Uruguay	-34.79	-54.91	0.00187906597763
+42	Seminario Mayor San Fidel	Padre las Casas	Araucanía	Chile	-38.77	-72.6	0.00187906597763
+43	Municipio de Planeta Rica	Montería	Córdoba	Colombia	8.76	-75.89	0.00187906597763
+44	Hospital del Bicentenario	Resistencia	Chaco	Argentina	-27.46	-58.99	0.00187906597763
+45	Ciudad Feliz	Zárate	Buenos Aires	Argentina	-34.09	-59.04	0.00187906597763
+46	ciudad de Valdivia	Valdivia	Los Lagos	Chile	-39.82	-73.23	0.00187906597763
+47	Ciudad de Villeta	Villeta	Central	Paraguay	-25.51	-57.56	0.00187906597763
+48	Rodovia Washington Luís	Duque de Caxias	Rio de Janeiro	Brazil	-22.77	-43.31	0.00187906597763
+49	Valle del Mezquital	Atitalaquia	Hidalgo	Mexico	20.07	-99.22	0.00187906597763
+50	Hospital Plantadores de Cana	Cabo Frio	Rio de Janeiro	Brazil	-22.89	-42.04	0.00187906597763
+51	Seminario Mayor San Rafael	Padre las Casas	Araucanía	Chile	-38.77	-72.6	0.00187906597763
+52	SP-030	Rondonópolis	Mato Grosso	Brazil	-16.47	-54.64	0.00187906597763
+53	Heliporto de Farol	Cabo Frio	Rio de Janeiro	Brazil	-22.89	-42.04	0.00187906597763
+54	Arauca river	Arauca	Arauca	Colombia	7.08	-70.76	0.00187906597763
+55	Villa Sol de Septiembre	Lampa	Metropolitana	Chile	-33.28	-70.9	0.00187906597763
+56	Fort Zeelandia	Paramaribo	Paramaribo	Suriname	5.85	-55.2	0.00187906597763
+57	Hospital Herminda Martín	Chillán	Bío Bío	Chile	-36.6	-72.11	0.00187906597763
+58	Villa Constanza	Neiva	Huila	Colombia	2.94	-75.27	0.00187906597763
+59	municipio Montes	Carúpano	Sucre	Venezuela	10.67	-63.23	0.00187906597763
+60	Valle Nevado	San Bernardo	Metropolitana	Chile	-33.6	-70.7	0.00187906597763
+61	aeropuerto de Juliwood	Juliaca	Puno	Peru	-15.5	-70.14	0.00187906597763
+62	Plaza de los Héroes	Yaguarón	Paraguarí	Paraguay	-25.57	-57.28	0.00187906597763
+63	SP-245/55	Cubatão	São Paulo	Brazil	-23.89	-46.42	0.00187906597763
+64	Valle de Tambo	Mollendo	Arequipa	Peru	-17.02	-72.02	0.00187906597763
+65	ciudad Madero Madero	Ciudad Madero	Tamaulipas	Mexico	22.27	-97.83	0.00187906597763
+66	Jardim Primavera	Duque de Caxias	Rio de Janeiro	Brazil	-22.77	-43.31	0.00187906597763
+67	Hospital de Mollendo	Mollendo	Arequipa	Peru	-17.02	-72.02	0.00187906597763
+68	Ramis River	Juliaca	Puno	Peru	-15.5	-70.14	0.00187906597763
+69	Rodovia Padre Manoel da Nóbrega	Cubatão	São Paulo	Brazil	-23.89	-46.42	0.00187906597763
+70	Juliaca hospital	Juliaca	Puno	Peru	-15.5	-70.14	0.00187906597763
+71	Aeroporto de Cabo Frio	Cabo Frio	Rio de Janeiro	Brazil	-22.89	-42.04	0.00187906597763
+72	Francisco Carle Airport	Jauja	Junín	Peru	-11.8	-75.5	0.00187906597763
+73	Monterrey Gonzalitos Avenue	Ciudad General Escobedo	Nuevo León	Mexico	25.82	-100.33	0.00187906597763
+74	Valle San Marcos	San Marcos	San Salvador	El Salvador	13.66	-89.19	0.00187906597763
+75	Aeroporto Internacional de Cabo Frio	Cabo Frio	Rio de Janeiro	Brazil	-22.89	-42.04	0.00187906597763
+76	Valle del Mantaro	Jauja	Junín	Peru	-11.8	-75.5	0.00187906597763
+77	Río Atoyac Angelópolis	Tlaxco	Tlaxcala	Mexico	19.62	-98.12	0.00187906597763
+78	Corea Hospital	Trinidad	Beni	Bolivia	-14.84	-64.91	0.00187906597763
+79	Hospital Interzonal Abraham	Junín	Buenos Aires	Argentina	-34.59	-60.96	0.00187906597763
+80	Valle Ubéimar Delgado	Buenaventura	Valle del Cauca	Colombia	3.89	-77.04	0.00187906597763
+81	Mezquital Valley	Atitalaquia	Hidalgo	Mexico	20.07	-99.22	0.00187906597763
+82	BR-070	Rondonópolis	Mato Grosso	Brazil	-16.47	-54.64	0.00187906597763
+83	aeropuerto de Orcotuna	Jauja	Junín	Peru	-11.8	-75.5	0.00187906597763
+84	Villa Tunari-San Ignacio	Trinidad	Beni	Bolivia	-14.84	-64.91	0.00187906597763
+85	Colonia Dendho	Atitalaquia	Hidalgo	Mexico	20.07	-99.22	0.00187906597763
+86	Villa Sol September	Lampa	Metropolitana	Chile	-33.28	-70.9	0.00187906597763
+87	Rodovia Castelo Branco	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00187901923758
+88	Avenida de Santa Cruz	Barra Mansa	Rio de Janeiro	Brazil	-22.56	-44.17	0.00187901923758
+89	Aeroporto Internacional de Guarulhos	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00187901923758
+90	RS-343	Guarapuava	Paraná	Brazil	-25.38	-51.48	0.00187901923758
+91	RS-324	Guarapuava	Paraná	Brazil	-25.38	-51.48	0.00187901923758
+92	Hospital Razetti	Baruta	Miranda	Venezuela	10.43	-66.88	0.00187901923758
+93	Avenida Praça Central de Itaquera	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00187901923758
+94	Avenida Politécnica	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00187901923758
+95	Praça da Independência	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00187901923758
+96	Av. Rio Branco	Barra Mansa	Rio de Janeiro	Brazil	-22.56	-44.17	0.00187901923758
+97	Villa Devoto	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.00187901923758
+98	BR-386	Guarapuava	Paraná	Brazil	-25.38	-51.48	0.00187901923758
+99	Avenida Mauá	Caxias do Sul	Rio Grande do Sul	Brazil	-29.18	-51.17	0.00187901923758
+100	BR-222	Itapecuru Mirim	Maranhão	Brazil	-3.4	-44.36	0.00187901923758
+101	Complexo Esportivo do Maracanã	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+102	Estádio do Maracanã	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+103	Túnel Santa Bárbara	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+104	Túnel Novo	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+105	Avenida Atlântica	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+106	Avenida Maracanã	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+107	Avenida Lucio Costa	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+108	Estádio de Atletismo	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+109	Aeroporto Santos Dumont	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00185556894545
+110	Avenida João Pessoa	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00183786909039
+111	Valles del Tuy	Santa Teresa	Miranda	Venezuela	10.23	-66.66	0.00182107681589
+112	ciudad de Canelones	Empalme Olmos	Canelones	Uruguay	-34.7	-55.9	0.00182107681589
+113	Guarenas-Guatire	Maracay	Aragua	Venezuela	10.33	-67.47	0.0017850573049
+114	Rodovia Régis Bittencourt	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00177373441023
+115	Rodovia Anhanguera	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00177373441023
+116	Hospital Universitario	Baruta	Miranda	Venezuela	10.43	-66.88	0.00177373441023
+117	avenida Amazonas	Contagem	Minas Gerais	Brazil	-19.91	-44.1	0.00177373441023
+118	Ciudad Universitaria	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00176345137507
+119	Avenida Madero	Morelia	Michoacán	Mexico	19.72	-101.18	0.00175508100548
+120	Avenida Juárez	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.00175508100548
+121	Avenida Ipiranga	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00174426026857
+122	Plaza Olaya Herrera	Sincelejo	Sucre	Colombia	9.29	-75.38	0.00174324383679
+123	Villa Gobernador GÃ	Bariloche	Río Negro	Argentina	-41.14	-71.32	0.00174324383679
+124	Avenida Bernardo Vieira	Natal	Rio Grande do Norte	Brazil	-5.8	-35.22	0.00174324383679
+125	Hospital Santo Antonio	Osasco	São Paulo	Brazil	-23.53	-46.78	0.00174324383679
+126	hospital de Chalatenango	Chalatenango	Chalatenango	El Salvador	14.04	-88.95	0.00174324383679
+127	Guasdualito del municipio Páez	Guasdualito	Apure	Venezuela	7.24	-70.74	0.00174324383679
+128	Lago Azul de Ypacaraí	Lambaré	Central	Paraguay	-25.33	-57.64	0.00174324383679
+129	Avenida Sur	Sensuntepeque	Cabañas	El Salvador	13.88	-88.63	0.00174324383679
+130	Avenida Netuno	Osasco	São Paulo	Brazil	-23.53	-46.78	0.00174324383679
+131	avenidas Salgado Filho	Natal	Rio Grande do Norte	Brazil	-5.8	-35.22	0.00174324383679
+132	Catedral São Pedro de Alcântara	Petrópolis	Rio de Janeiro	Brazil	-22.51	-43.2	0.00174324383679
+133	Achibueno River	Linares	Maule	Chile	-35.84	-71.59	0.00174324383679
+134	hotel Victoria	Motozintla de Mendoza	Chiapas	Mexico	15.37	-92.23	0.00174324383679
+135	Plaza Villarroel	El Alto	La Paz	Bolivia	-16.5	-68.17	0.00174324383679
+136	Aburra Valley	Alpujarra	Tolima	Colombia	3.39	-74.94	0.00174324383679
+137	Arena das Dunas	Natal	Rio Grande do Norte	Brazil	-5.8	-35.22	0.00174324383679
+138	SP-248	Guarujá	São Paulo	Brazil	-24.0	-46.27	0.00174324383679
+139	Cemitério da Saudade	Guarujá	São Paulo	Brazil	-24.0	-46.27	0.00174324383679
+140	Avenida Salgado Filho	Natal	Rio Grande do Norte	Brazil	-5.8	-35.22	0.00174324383679
+141	Charallave Un	Charallave	Miranda	Venezuela	10.24	-66.86	0.00174324383679
+142	ciudad de Villa Gobernador GÃ	Bariloche	Río Negro	Argentina	-41.14	-71.32	0.00174324383679
+143	Carretera Austral	Puerto Montt	Los Lagos	Chile	-41.47	-72.94	0.00174324383679
+144	Gonzalo del Valle	Poza Rica de Hidalgo	Veracruz	Mexico	20.55	-97.47	0.00174324383679
+145	Chiapas Estados • 5 Mayo	Venustiano Carranza	Chiapas	Mexico	17.3	-92.17	0.00174324383679
+146	Xingu River Consortium Builder Belo Monte	Altamira	Pará	Brazil	-3.2	-52.21	0.00174324383679
+147	Terminal Rodoviário	João Pessoa	Paraíba	Brazil	-7.12	-34.86	0.00174324383679
+148	ciudad de Linares	Linares	Maule	Chile	-35.84	-71.59	0.00174324383679
+149	Plaza Ingeniería	Machalí	Libertador General Bernardo O'Higgins	Chile	-34.18	-70.67	0.00174324383679
+150	ciudad de Durazno	Durazno	Durazno	Uruguay	-33.41	-56.51	0.00174324383679
+151	Valle del Aburrá	Alpujarra	Tolima	Colombia	3.39	-74.94	0.00174324383679
+152	ciudad de Villa Gobernador Gálvez	Bariloche	Río Negro	Argentina	-41.14	-71.32	0.00174324383679
+153	colonia de San Andrés Cholula	San Pedro Atlixco	Puebla	Mexico	18.9	-98.45	0.00174324383679
+154	ciudad de Soca	Las Piedras	Canelones	Uruguay	-34.69	-56.23	0.00174324383679
+155	Huauchinango Angelópolis	Huauchinango	Puebla	Mexico	20.19	-98.07	0.00174324383679
+156	SP Rodovia CÃ	Guarujá	São Paulo	Brazil	-24.0	-46.27	0.00174324383679
+157	Colonia Sierra Morena	Guadalupe	Nuevo León	Mexico	25.68	-100.26	0.00174324383679
+158	BR-285	Guarapuava	Paraná	Brazil	-25.38	-51.48	0.00173370697659
+159	Rodovia Raposo Tavares	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00173370697659
+160	BR-369	Mamborê	Paraná	Brazil	-24.3	-52.53	0.00173370697659
+161	avenida W3 Sul	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.0017166048567
+162	Plaza Rocafuerte	Quito	Pichincha	Ecuador	-0.19	-78.5	0.00170330126026
+163	Hospital de la Policía	Quito	Pichincha	Ecuador	-0.19	-78.5	0.00170330126026
+164	Região dos Lagos	Cabo Frio	Rio de Janeiro	Brazil	-22.89	-42.04	0.00169912712494
+165	Rodovia Anchieta	Cubatão	São Paulo	Brazil	-23.89	-46.42	0.00169912712494
+166	Avenida Prestes Maia	Taboão da Serra	São Paulo	Brazil	-23.6	-46.78	0.00169912712494
+167	Rodovia Cônego Domênico Rangoni	Cubatão	São Paulo	Brazil	-23.89	-46.42	0.00169912712494
+168	Circunvalación	Formosa	Formosa	Argentina	-26.18	-58.18	0.00169912712494
+169	Plaza 25 de Mayo	Junín	Buenos Aires	Argentina	-34.59	-60.96	0.00169912712494
+170	ciudad de Río Blanco	San José de Cusmapa	Madriz	Nicaragua	13.28	-86.65	0.00169912712494
+171	ciudad de Yaguarón	Yaguarón	Paraguarí	Paraguay	-25.57	-57.28	0.00169912712494
+172	Villa Lamadrid	Zárate	Buenos Aires	Argentina	-34.09	-59.04	0.00169912712494
+173	Rodovia dos Imigrantes	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00169903363643
+174	Plaza de Toros	Riobamba	Chimborazo	Ecuador	-1.67	-78.65	0.00169903363643
+175	avenida Beira Mar	Joinville	Santa Catarina	Brazil	-26.32	-48.84	0.00169903363643
+177	Palacio de los Tribunales	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00169033927126
+178	Palacio Piria	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00169033927126
+179	Avenida Libertador	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00169033927126
+180	Plaza de Cagancha	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00169033927126
+181	aeropuerto de Ocaña	Ocaña	Norte de Santander	Colombia	8.24	-73.35	0.0016550571363
+182	ciudad de Cajamarca	Cajamarca	Cajamarca	Peru	-7.16	-78.52	0.0016550571363
+183	Hospital de Ybycuí	Ybycuí	Paraguarí	Paraguay	-26.01	-57.02	0.0016550571363
+184	ciudad de Ybycuí	Ybycuí	Paraguarí	Paraguay	-26.01	-57.02	0.0016550571363
+185	Bulevar López Mateos	Ciudad López Mateos	México	Mexico	19.57	-99.26	0.0016550571363
+186	Avenida Luro	Mar del Plata	Buenos Aires	Argentina	-38.0	-57.58	0.0016550571363
+187	Arena da Amazônia Tópicos	Manaus	Amazonas	Brazil	-3.12	-60.02	0.0016550571363
+188	colonia San Sebastián	Ciudad López Mateos	México	Mexico	19.57	-99.26	0.0016550571363
+189	Juárez CIUDAD JUÁREZ	Juárez	Chihuahua	Mexico	31.74	-106.49	0.0016550571363
+190	SP-294	Marília	São Paulo	Brazil	-22.21	-49.95	0.0016550571363
+191	ciudad de Mar del Plata	Mar del Plata	Buenos Aires	Argentina	-38.0	-57.58	0.0016550571363
+192	colonia Residencial Zirándaro	Ciudad Benito Juárez	Nuevo León	Mexico	25.65	-100.08	0.0016550571363
+193	Avenida Getúlio Vargas	Manaus	Amazonas	Brazil	-3.12	-60.02	0.0016550571363
+194	Plaza de la Aduana	Cartagena	Bolívar	Colombia	10.4	-75.5	0.0016550571363
+195	Carabobo Avenue	San Fernando	Apure	Venezuela	7.9	-67.47	0.0016550571363
+196	Colquiri Plaza Murillo	Colquiri	La Paz	Bolivia	-17.39	-67.13	0.0016550571363
+197	Cholula City Hall	San Pedro Cholula	México	Mexico	19.27	-99.48	0.0016550571363
+198	Museu do Ipiranga	Guarulhos	São Paulo	Brazil	-23.46	-46.49	0.0016550571363
+199	Terminal hotel	Oruro	Oruro	Bolivia	-17.98	-67.12	0.0016550571363
+200	avenida del Lago	Minga Guazú	Alto Paraná	Paraguay	-25.5	-54.73	0.0016550571363
+201	Bambamarca Square Cajamarca	Cajamarca	Cajamarca	Peru	-7.16	-78.52	0.0016550571363
+202	María de los Ángeles	San Francisco de Campeche	Campeche	Mexico	19.85	-90.53	0.0016550571363
+203	Ciudad de Córdoba	Córdoba	Córdoba	Argentina	-31.4	-64.19	0.0016550571363
+204	Rodovia Comandante	Marília	São Paulo	Brazil	-22.21	-49.95	0.0016550571363
+205	Plaza Hidalgo	Chihuahua	Chihuahua	Mexico	28.63	-106.08	0.0016550571363
+206	Avenida Sampaio Vidal	Marília	São Paulo	Brazil	-22.21	-49.95	0.0016550571363
+207	Avenida Recife	Manaus	Amazonas	Brazil	-3.12	-60.02	0.0016550571363
+208	ciudad de Maturín	Maturín	Monagas	Venezuela	9.75	-63.17	0.0016550571363
+209	Hotel del Norte	Mexicali	Baja California	Mexico	32.65	-115.47	0.0016550571363
+210	Challa	Colquiri	La Paz	Bolivia	-17.39	-67.13	0.0016550571363
+211	Campus Ciudad Victoria	Ciudad Victoria	Tamaulipas	Mexico	23.73	-99.13	0.0016550571363
+212	Plaza de las Armas	Asunción	Asunción	Paraguay	-25.3	-57.63	0.00164107747262
+213	Avenida Almirante Barroso	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00164053909246
+214	BR-116	Juquitiba	São Paulo	Brazil	-23.95	-47.05	0.00161634256036
+215	Salto del Guairá 23 de Mayo	Salto del Guairá	Canendiyú	Paraguay	-24.02	-54.34	0.00158949408934
+216	Boulevard Tula	Tula de Allende	Hidalgo	Mexico	20.06	-99.35	0.00158949408934
+217	ciudad de Neuquén	Neuquén	Neuquén	Argentina	-38.95	-68.06	0.00158949408934
+218	Valle del Chota	Tulcán	Carchi	Ecuador	-0.83	-77.74	0.00158949408934
+219	ciudad de La Unión	La Unión	La Unión	El Salvador	13.34	-87.85	0.00158949408934
+220	Lake Titicaca	Puno	Puno	Peru	-15.84	-70.05	0.00158949408934
+221	Palacio Municipal de Pánuco	Pánuco	Veracruz	Mexico	22.06	-98.19	0.00158949408934
+222	ciudad de Orizaba	Córdoba	Veracruz	Mexico	0.0	99.99	0.00158949408934
+223	Port Union Antofagasta Terminal Internacional	Antofagasta	Antofagasta	Chile	-23.65	-70.39	0.00158949408934
+224	Reloj Monumental	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.0015812939174
+225	Valle de Chalco	Chimalhuacán	México	Mexico	19.44	-98.96	0.00157296457269
+226	Avenida Suba	Bogotá	Bogotá	Colombia	4.63	-74.09	0.0015712451549
+227	Ciudad de Cali	Bogotá	Bogotá	Colombia	4.63	-74.09	0.0015712451549
+228	Avenida Boyacá	Bogotá	Bogotá	Colombia	4.63	-74.09	0.0015712451549
+229	Ciudad Limpia	Bogotá	Bogotá	Colombia	4.63	-74.09	0.0015712451549
+230	Plaza Artigas	Durazno	Durazno	Uruguay	-33.41	-56.51	0.00156335173257
+231	Charallave Norte	Charallave	Miranda	Venezuela	10.24	-66.86	0.00156335173257
+232	Hospital Regional	Caazapá	Caazapá	Paraguay	-26.2	-56.38	0.00156335173257
+234	Avenida Raimundo Pereira de Magalhães	Osasco	São Paulo	Brazil	-23.53	-46.78	0.00156335173257
+235	Julio Avenue	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.00156291916077
+236	Corrientes Avenue	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.00156291916077
+237	Estadio Monegal	Canelones	Canelones	Uruguay	-34.53	-56.29	0.00153725608218
+238	Avenida Agamenon Magalhães	Recife	Pernambuco	Brazil	-8.08	-34.92	0.00153725608218
+239	PAIS Intendente de Villa Elisa	Villa Elisa	Central	Paraguay	-25.37	-57.62	0.00153725608218
+240	avenidas Conde da Boa Vista	Recife	Pernambuco	Brazil	-8.08	-34.92	0.00153725608218
+241	Avenida Conde da Boa Vista	Recife	Pernambuco	Brazil	-8.08	-34.92	0.00153725608218
+242	ciudad de Caazapá	San Juan Nepomuceno	Caazapá	Paraguay	-26.12	-55.94	0.00153725608218
+243	Avenida Antonio	Sorocaba	São Paulo	Brazil	-23.49	-47.47	0.00153725608218
+244	ciudad de Atescatempa	Santa Ana	Santa Ana	El Salvador	14.0	-89.54	0.00153725608218
+245	Amalucan Xonacatepec Avenue	Tehuacán	Puebla	Mexico	18.45	-97.38	0.00153725608218
+246	Valle Torres	Técpan de Galeana	Guerrero	Mexico	17.25	-100.68	0.00153725608218
+247	Avenida Afonso Vergueiro	Sorocaba	São Paulo	Brazil	-23.49	-47.47	0.00153725608218
+248	ciudad de Punto Fijo	Punto Fijo	Falcón	Venezuela	11.72	-70.21	0.00153725608218
+249	Colonia La Sabana	San Pedro Sula	Cortés	Honduras	15.47	-88.03	0.00153725608218
+250	ciudad de Coro	Coro	Falcón	Venezuela	11.42	-69.68	0.00153725608218
+251	Terminal Santo Antônio	Sorocaba	São Paulo	Brazil	-23.49	-47.47	0.00153725608218
+252	Hospital San Rafael	Tunja	Boyacá	Colombia	5.55	-73.37	0.00153725608218
+253	Avenida Francisco de Miranda	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00153296325149
+254	Palacio de Miraflores	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00153296325149
+255	Avenida Litorânea	Taboão da Serra	São Paulo	Brazil	-23.6	-46.78	0.00151923504597
+256	Hospital Carlos Macieira	Taboão da Serra	São Paulo	Brazil	-23.6	-46.78	0.00151923504597
+257	Avenida Callao	Resistencia	Chaco	Argentina	-27.46	-58.99	0.00151923504597
+258	Ciudad Deportiva	Los Mochis	Sinaloa	Mexico	25.79	-109.0	0.00151923504597
+259	Rodovia Presidente Dutra	Cotia	São Paulo	Brazil	-23.6	-46.94	0.00151904803527
+260	Hospital Rosales	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.00150073415839
+261	Catedral Metropolitana de San Salvador	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.00150073415839
+262	Hospital de Maternidad	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.00150073415839
+263	Carretera de Oro	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.00150073415839
+264	Avenida M'Boi Mirim	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+265	Avenida Feliciano Sodré	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+266	Villas de San Ignacio	Bucaramanga	Santander	Colombia	7.13	-73.13	0.001493822815
+267	Mackenzie Hospital	Linden	Upper Demerara-Berbice	Guyana	5.99	-58.27	0.001493822815
+268	avenidas Visconde do Rio Branco	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+269	Victory Valley Hill	Linden	Upper Demerara-Berbice	Guyana	5.99	-58.27	0.001493822815
+270	Uchumayo Road	Arequipa	Arequipa	Peru	-16.39	-71.53	0.001493822815
+271	Plaza Ceiba	Bucaramanga	Santander	Colombia	7.13	-73.13	0.001493822815
+272	Avenida Marquês de Paraná	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+273	Terminal Jardim Ângela	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+274	Plaza Niterói	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+275	Plaza de las Banderas	Temuco	Araucanía	Chile	-38.73	-72.58	0.001493822815
+276	City of Bucaramanga	Bucaramanga	Santander	Colombia	7.13	-73.13	0.001493822815
+277	Avenida Roberto Silveira	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+278	Ciudad Blanca	Arequipa	Arequipa	Peru	-16.39	-71.53	0.001493822815
+279	Av. Jornalista Alberto Francisco Torres	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+280	Avenida Jansen de Mello	Niterói	Rio de Janeiro	Brazil	-22.9	-43.13	0.001493822815
+281	Rodovia Castello Branco	Guarulhos	São Paulo	Brazil	-23.46	-46.49	0.00147521178053
+282	Plaza Murillo	Colquiri	La Paz	Bolivia	-17.39	-67.13	0.00147521178053
+283	Plaza de la Intendencia	Córdoba	Córdoba	Argentina	-31.4	-64.19	0.00147521178053
+284	Avenida Passos	Nova Iguaçu	Rio de Janeiro	Brazil	-22.74	-43.47	0.00145816041898
+285	Rodovia BR-465	Nova Iguaçu	Rio de Janeiro	Brazil	-22.74	-43.47	0.00145816041898
+286	Villarrica del Espíritu Santo	Villarrica	Guairá	Paraguay	-25.78	-56.46	0.00145664743562
+287	Zacamil Hospital	Mejicanos	San Salvador	El Salvador	13.73	-89.2	0.00145664743562
+288	Municipio de San Carlos	Maldonado	Maldonado	Uruguay	-34.91	-54.96	0.00145664743562
+289	Avenida Chimalhuacan	Ciudad Nezahualcóyotl	México	Mexico	19.41	-99.03	0.00145664743562
+290	avenida Mina	Gómez Palacio	Durango	Mexico	25.57	-103.5	0.00145664743562
+291	ciudad de Tebicuary	Villarrica	Guairá	Paraguay	-25.78	-56.46	0.00145664743562
+292	Villarrica Actualmente	Villarrica	Guairá	Paraguay	-25.78	-56.46	0.00145664743562
+293	Villarrica Villarrica	Villarrica	Guairá	Paraguay	-25.78	-56.46	0.00145664743562
+294	Hospital de Dolores	Maldonado	Maldonado	Uruguay	-34.91	-54.96	0.00145664743562
+295	Gomez Palace	Gómez Palacio	Durango	Mexico	25.57	-103.5	0.00145664743562
+296	Plaza Bernardino Caballero	San Estanislao	San Pedro	Paraguay	-24.67	-56.5	0.00145664743562
+297	hospital Zacamil 3 de Mayo	Mejicanos	San Salvador	El Salvador	13.73	-89.2	0.00145664743562
+298	Ciudad Delgado	Mejicanos	San Salvador	El Salvador	13.73	-89.2	0.00145664743562
+299	ciudad de Santaní	San Estanislao	San Pedro	Paraguay	-24.67	-56.5	0.00145664743562
+300	Avenida Siglo	Cochabamba	Cochabamba	Bolivia	-17.38	-66.17	0.00145664743562
+301	ciudad de San Estanislao	San Estanislao	San Pedro	Paraguay	-24.67	-56.5	0.00145664743562
+302	City of Cochabamba	Cochabamba	Cochabamba	Bolivia	-17.38	-66.17	0.00145664743562
+303	Mina Avenue	Gómez Palacio	Durango	Mexico	25.57	-103.5	0.00145664743562
+304	Hospital Santa Joana	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00143898102726
+305	Avenida das	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00143898102726
+306	Aeroporto de Congonhas	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00143898102726
+307	Avenida Celso Garcia	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00143898102726
+308	Avenida Bernardino de Campos	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00143898102726
+309	Avenida Ricardo Jafet	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00143898102726
+310	Autopista del Este	Valencia	Carabobo	Venezuela	10.23	-67.98	0.00143112587846
+311	Palacio de López	Asunción	Asunción	Paraguay	-25.3	-57.63	0.00142908736421
+312	Iguala City Hall	Iguala de la Independencia	Guerrero	Mexico	18.37	-99.54	0.00142415107499
+313	Plaza de Armas Estados • 22 Mayo	Saltillo	Coahuila	Mexico	25.42	-101.0	0.00142415107499
+314	Tlaxcala Town Hall	Tlaxcala de Xicohténcatl	Tlaxcala	Mexico	19.31	-98.24	0.00142415107499
+315	ciudad de Paysandú	Paysandú	Paysandú	Uruguay	-32.33	-58.08	0.00142415107499
+316	Catedral Metropolitana de Florianópolis	Florianópolis	Santa Catarina	Brazil	-27.6	-48.54	0.00142415107499
+317	Obelisk Square	Guatemala	Guatemala	Guatemala	14.63	-90.55	0.00142415107499
+318	National Palace of Culture	Guatemala	Guatemala	Guatemala	14.63	-90.55	0.00142415107499
+319	Villa Heroica de Guatire	Guatire	Miranda	Venezuela	10.47	-66.53	0.00142415107499
+320	Plaza Obelisco	Guatemala	Guatemala	Guatemala	14.63	-90.55	0.00142415107499
+321	avenida Beira Mar Norte	Florianópolis	Santa Catarina	Brazil	-27.6	-48.54	0.00142415107499
+322	ciudad de Saltillo	Saltillo	Coahuila	Mexico	25.42	-101.0	0.00142415107499
+323	ciudad de Colón	Paysandú	Paysandú	Uruguay	-32.33	-58.08	0.00142415107499
+324	ciudad de Parras	Saltillo	Coahuila	Mexico	25.42	-101.0	0.00142415107499
+325	Valle de Ecatepec	Ecatepec de Morelos	México	Mexico	19.6	-99.05	0.00142415107499
+326	BR-390	Foz do Iguaçu	Paraná	Brazil	-25.55	-54.58	0.0014140437745
+327	BR-392	Foz do Iguaçu	Paraná	Brazil	-25.55	-54.58	0.0014140437745
+328	BR-232	Foz do Iguaçu	Paraná	Brazil	-25.55	-54.58	0.0014140437745
+329	BR-060	Foz do Iguaçu	Paraná	Brazil	-25.55	-54.58	0.0014140437745
+330	Avenida Hidalgo	Tampico	Tamaulipas	Mexico	22.22	-97.85	0.00140969548204
+331	ciudad de Xalapa	Córdoba	Veracruz	Mexico	0.0	99.99	0.00140969548204
+332	ciudad de Ayolas	Ayolas	Misiones	Paraguay	-27.4	-56.9	0.00139528656181
+333	Avenida Silvio Vianna	Maceió	Alagoas	Brazil	-9.65	-35.75	0.00139528656181
+334	ciudad de Rosario	Rosario	Santa Fé	Argentina	-32.94	-60.67	0.00139528656181
+335	SP-083	Campinas	São Paulo	Brazil	-22.91	-47.08	0.00139528656181
+336	Plaza de la Cultura	San José	San José	Costa Rica	9.93	-84.08	0.00139528656181
+337	Arenal Volcano	San José	San José	Costa Rica	9.93	-84.08	0.00139528656181
+338	hospital de San Miguel	San Miguel	San Miguel	El Salvador	13.47	-88.18	0.00139528656181
+339	Avenida Doutor Moraes Salles	Campinas	São Paulo	Brazil	-22.91	-47.08	0.00139528656181
+340	Hospital Italiano de Rosario	Rosario	Santa Fé	Argentina	-32.94	-60.67	0.00139528656181
+341	Villavo	Villavicencio	Meta	Colombia	4.15	-73.64	0.00139528656181
+342	Avenida Francisco Glicério	Campinas	São Paulo	Brazil	-22.91	-47.08	0.00139528656181
+343	Hospital Roque Sáenz Peña	Rosario	Santa Fé	Argentina	-32.94	-60.67	0.00139528656181
+344	Avenida 9 de Julho	Natal	Rio Grande do Norte	Brazil	-5.8	-35.22	0.00138355317578
+345	Plaza Perú	Puerto Montt	Los Lagos	Chile	-41.47	-72.94	0.00138355317578
+346	Avenida Nove de Julho	Natal	Rio Grande do Norte	Brazil	-5.8	-35.22	0.00138355317578
+347	Avenida España	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00138093104627
+348	BR-324	Foz do Iguaçu	Paraná	Brazil	-25.55	-54.58	0.00137406313144
+349	Avenida Lourenço Vieira da Silva	São Luís	Maranhão	Brazil	-2.5	-44.3	0.00136932341701
+350	Plaza de Armas de Villahermosa	Villahermosa	Tabasco	Mexico	17.98	-92.92	0.00136932341701
+351	Hotel Bourbon	Luque	Central	Paraguay	-25.27	-57.49	0.00136932341701
+352	Ciudad Socialista Belén	Guarenas	Miranda	Venezuela	10.47	-66.62	0.00136932341701
+353	Plaza del Otorongo	Cuenca	Azuay	Ecuador	-2.9	-79.01	0.00136932341701
+354	ciudad de León	León de los Aldama	Guanajuato	Mexico	21.12	-101.69	0.00136932341701
+355	Plaza de Miranda	Guarenas	Miranda	Venezuela	10.47	-66.62	0.00136932341701
+356	Buenaventura Mall	Guarenas	Miranda	Venezuela	10.47	-66.62	0.00136932341701
+357	Avenida Jerônimo de Albuquerque	São Luís	Maranhão	Brazil	-2.5	-44.3	0.00136932341701
+358	Estadio León	León de los Aldama	Guanajuato	Mexico	21.12	-101.69	0.00136932341701
+359	Plaza Principal de León	León de los Aldama	Guanajuato	Mexico	21.12	-101.69	0.00136932341701
+360	Villahermosa Tab	Villahermosa	Tabasco	Mexico	17.98	-92.92	0.00136932341701
+361	Autopista Sur	Bogotá	Bogotá	Colombia	4.63	-74.09	0.00136535118824
+362	Plaza Patria	Aguascalientes	Aguascalientes	Mexico	21.88	-102.3	0.00135750422334
+363	Avenida Fernandes Lima	Recife	Pernambuco	Brazil	-8.08	-34.92	0.00135750422334
+364	Buenos Aires City	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.00135228524609
+365	Estádio Castelão	Fortaleza	Ceará	Brazil	-3.78	-38.59	0.00134573168558
+366	Catedral Divino Espírito Santo	Bauru	São Paulo	Brazil	-22.33	-49.08	0.00134573168558
+367	Hospital de Policía	Coronel Oviedo	Caaguazú	Paraguay	-25.45	-56.44	0.00134573168558
+368	Avenida dos Expedicionários	Fortaleza	Ceará	Brazil	-3.78	-38.59	0.00134573168558
+369	Avenida Alberto Craveiro	Fortaleza	Ceará	Brazil	-3.78	-38.59	0.00134573168558
+370	Rodovia Marechal Rondon	Bauru	São Paulo	Brazil	-22.33	-49.08	0.00134573168558
+371	ciudad de El Tigre	Barcelona	Anzoátegui	Venezuela	10.13	-64.72	0.00134573168558
+372	Hospital Regional de Villa	Villa Hayes	Presidente Hayes	Paraguay	-25.09	-57.53	0.00134573168558
+373	Hospital de Villa	Villa Hayes	Presidente Hayes	Paraguay	-25.09	-57.53	0.00134573168558
+374	Avenida Carlos	Fortaleza	Ceará	Brazil	-3.78	-38.59	0.00134573168558
+375	Procaverpar	Villa Hayes	Presidente Hayes	Paraguay	-25.09	-57.53	0.00134573168558
+376	Palacio Blanco	Chacao	Miranda	Venezuela	10.5	-66.85	0.00134573168558
+377	colonia Fortuna	Curuguaty	Canendiyú	Paraguay	-24.48	-55.71	0.00134573168558
+378	Ave Maria	Bauru	São Paulo	Brazil	-22.33	-49.08	0.00134573168558
+379	Villa Nonguén	Concepción	Bío Bío	Chile	-36.83	-73.05	0.00134573168558
+380	Avenida Paulino Rocha	Fortaleza	Ceará	Brazil	-3.78	-38.59	0.00134573168558
+381	Avenida Brigadeiro Faria Lima	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.00134172283504
+382	Tenango del Valle con Toluca	Toluca de Lerdo	México	Mexico	19.29	-99.67	0.0013241146165
+383	Portillo Avenue	Toluca de Lerdo	México	Mexico	19.29	-99.67	0.0013241146165
+384	Tenango del Valle Tenango del Valle	Toluca de Lerdo	México	Mexico	19.29	-99.67	0.0013241146165
+385	Rectorado del Campus de San Lorenzo	San Lorenzo	Central	Paraguay	-25.34	-57.52	0.0013241146165
+386	Valle del Nevado	Toluca de Lerdo	México	Mexico	19.29	-99.67	0.0013241146165
+387	Puerto Saavedra	Antofagasta	Antofagasta	Chile	-23.65	-70.39	0.00130459768221
+388	BR-287	Santa Maria	Rio Grande do Sul	Brazil	-29.69	-53.83	0.00130416743182
+389	Coatzacoalcos-Villahermosa	Coatzacoalcos	Veracruz	Mexico	18.14	-94.42	0.00130416743182
+390	Gran Plaza	Torreón	Coahuila	Mexico	25.55	-103.43	0.00130416743182
+391	Torreón Policía • 21 Mayo	Torreón	Coahuila	Mexico	25.55	-103.43	0.00130416743182
+392	Hospital de Caridade	Santa Maria	Rio Grande do Sul	Brazil	-29.69	-53.83	0.00130416743182
+393	Catedral del Carmen	Torreón	Coahuila	Mexico	25.55	-103.43	0.00130416743182
+394	bulevar Laguna	Torreón	Coahuila	Mexico	25.55	-103.43	0.00130416743182
+395	ciudad de Tuxtla	Tuxtla Gutiérrez	Chiapas	Mexico	16.75	-93.12	0.00130416743182
+396	Hospital Zacamil	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.00129554154494
+397	Palacio Municipal Vídeo	Tijuana	Baja California	Mexico	32.53	-117.02	0.0012856509155
+398	Valle Sur	Tijuana	Baja California	Mexico	32.53	-117.02	0.0012856509155
+399	Plaza Emiliana de Zubeldía	Hermosillo	Sonora	Mexico	29.07	-110.97	0.0012856509155
+400	Plaza Zaragoza	Hermosillo	Sonora	Mexico	29.07	-110.97	0.0012856509155
+401	aeropuerto de San Antonio del Táchira	San Cristóbal	Táchira	Venezuela	7.77	-72.25	0.0012856509155
+402	aeropuerto del Táchira	San Cristóbal	Táchira	Venezuela	7.77	-72.25	0.0012856509155
+403	Boulevard Victoria	Valparaíso	Valparaíso	Chile	-33.04	-71.64	0.00126837385415
+404	Chiapas Estados • 7 Mayo	San Cristóbal de las Casas	Chiapas	Mexico	16.75	-92.63	0.00126837385415
+405	Univalle	Cali	Valle del Cauca	Colombia	3.44	-76.52	0.00126837385415
+406	Avenida Sete de Setembro	Curitiba	Paraná	Brazil	-25.42	-49.29	0.00126837385415
+407	Hospital San Jorge de Pereira	Pereira	Risaralda	Colombia	4.81	-75.68	0.00126837385415
+408	Parque El Lago	Pereira	Risaralda	Colombia	4.81	-75.68	0.00126837385415
+409	Hospital Universitario del Valle HUV	Cali	Valle del Cauca	Colombia	3.44	-76.52	0.00126837385415
+410	Plaza de la Victoria	Valparaíso	Valparaíso	Chile	-33.04	-71.64	0.00126837385415
+411	Valle del Lili	Cali	Valle del Cauca	Colombia	3.44	-76.52	0.00126837385415
+412	Italy Park Plaza Sotomayor	Valparaíso	Valparaíso	Chile	-33.04	-71.64	0.00126837385415
+413	Palacio de Justicia de San Cristóbal	San Cristóbal de las Casas	Chiapas	Mexico	16.75	-92.63	0.00126837385415
+414	Avenida Francia	Valparaíso	Valparaíso	Chile	-33.04	-71.64	0.00126837385415
+415	Plaza Catedral ubicada	San Cristóbal de las Casas	Chiapas	Mexico	16.75	-92.63	0.00126837385415
+416	Policía del Valle	Cali	Valle del Cauca	Colombia	3.44	-76.52	0.00126837385415
+417	Universidad del Valle Las	Cali	Valle del Cauca	Colombia	3.44	-76.52	0.00126837385415
+418	Palacio de Justicia de San LÃ	San Cristóbal de las Casas	Chiapas	Mexico	16.75	-92.63	0.00126837385415
+419	ciudad de Santiago	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00126207002602
+420	Hospital de Carabineros	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00126207002602
+421	Autopista Vespucio Oriente	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00126207002602
+422	Plaza Ñuñoa	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00126207002602
+423	Aeroporto Internacional de Salvador	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+424	Hotel Novo Mundo	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+425	Hospital Espanhol de Salvador	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+426	Avenida Tancredo Neves	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+427	Terminal Marítimo São Tomé de Paripe	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+428	Favela da Polêmica	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+429	Avenida Joana Angelica	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+430	Avenida Paralela	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+431	Hospital Espanhol	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+432	Gran Hotel	Salvador	Bahia	Brazil	-12.97	-38.5	0.001252180991
+433	Salaverry Avenue	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+434	Estádio Serra Dourada	Goiânia	Goiás	Brazil	-16.72	-49.26	0.00123694453748
+435	Avenidas Goiás	Goiânia	Goiás	Brazil	-16.72	-49.26	0.00123694453748
+436	Argentina de Municipios	La Plata	Buenos Aires	Argentina	-34.92	-57.96	0.00123694453748
+437	Dos de Mayo Square	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+438	Plaza Dos de Mayo	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+439	Hospital Militar	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+440	Gran Mercado Mayorista	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+441	Campus Siglo 21	Zacatecas	Zacatecas	Mexico	22.78	-102.58	0.00123694453748
+442	colonia Primavera	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+443	Canada Avenue	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+444	Avenida Salaverry	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+445	Naval Hospital, Centro Medico Naval	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+446	Avenida Venezuela	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+447	Plaza Moreno	La Plata	Buenos Aires	Argentina	-34.92	-57.96	0.00123694453748
+448	Villa Elvira	La Plata	Buenos Aires	Argentina	-34.92	-57.96	0.00123694453748
+449	Dos de Mayo Manifestantes	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+450	Arequipa Avenue	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+451	Jorge Chávez International Airport	Lima	Callao	Peru	-12.07	-77.05	0.00123694453748
+452	Complexo do Alemão	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+453	Hospital de Bonsucesso	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+454	Favela do Vidigal	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+455	Hospital do Fundão	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+456	Complexo Esportivo	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+457	Rodovia Washington Luiz	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+458	Avenida Cesário de Melo	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+459	Avenida, Demissões	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+460	Avenida Alfred Agache	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+461	Avenida Presidente Vargas Domingos Peixoto	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+462	Museu Olímpico	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+463	Hospital Salgado Filho	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+464	Estádio Mário Filho	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+465	Avenida Rodrigues Alves	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+466	Avenida Primeira de Março	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+467	Gávea	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00123580846615
+468	Avenida del Libertador	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00122556660221
+469	Freitas City	Puerto la Cruz	Anzoátegui	Venezuela	10.17	-64.68	0.00122255805133
+470	ciudad de Puerto La Cruz	Puerto la Cruz	Anzoátegui	Venezuela	10.17	-64.68	0.00122255805133
+471	Hospital San	San Miguel	San Miguel	El Salvador	13.47	-88.18	0.00121572169682
+472	Avenida Dedé Brasil	Maceió	Alagoas	Brazil	-9.65	-35.75	0.00121572169682
+473	Aeroporto Internacional de Viracopos	Campinas	São Paulo	Brazil	-22.91	-47.08	0.00121572169682
+474	Plaza Botero	Bucaramanga	Santander	Colombia	7.13	-73.13	0.00120911341856
+475	Hospital Central de Barquisimeto	Barquisimeto	Lara	Venezuela	10.05	-69.3	0.0012089319309
+476	Mantenimiento del municipio Girardot	Maracay	Aragua	Venezuela	10.33	-67.47	0.0012089319309
+477	Hospital Central de Maracay	Maracay	Aragua	Venezuela	10.33	-67.47	0.0012089319309
+478	Villa Frontado	Cumaná	Sucre	Venezuela	10.45	-64.18	0.0012089319309
+479	campus Guatamare	Cumaná	Sucre	Venezuela	10.45	-64.18	0.0012089319309
+480	Avenida Antônio Carlos	Belo Horizonte	Minas Gerais	Brazil	-19.92	-43.94	0.00119599003914
+481	Complexo Penitenciário Nelson Hungria	Belo Horizonte	Minas Gerais	Brazil	-19.92	-43.94	0.00119599003914
+482	Avenida Antônio Abrahão Caram	Belo Horizonte	Minas Gerais	Brazil	-19.92	-43.94	0.00119599003914
+483	San Pedro River	Los Teques	Miranda	Venezuela	10.42	-67.02	0.00119599003914
+484	Avenida Abrahão Caram	Belo Horizonte	Minas Gerais	Brazil	-19.92	-43.94	0.00119599003914
+485	Avenida Bicentenario	Los Teques	Miranda	Venezuela	10.42	-67.02	0.00119599003914
+486	aeropuerto Internacional	Catia La Mar	Miranda	Venezuela	10.56	-67.03	0.00119050258621
+487	Hospital Central Universitario	Catia La Mar	Miranda	Venezuela	10.56	-67.03	0.00119050258621
+488	Plaza Principal	Gómez Palacio	Durango	Mexico	25.57	-103.5	0.00117203154453
+489	ciudad de La Paz Resultado	La Paz	La Paz	Bolivia	-16.5	-68.15	0.00117190688161
+490	Estadio Hidalgo	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.00117190688161
+491	Plaza Bella	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.00117190688161
+492	San Ignacio de Moxos-Villa Tunari	La Paz	La Paz	Bolivia	-16.5	-68.15	0.00117190688161
+493	Villa Fátima	La Paz	La Paz	Bolivia	-16.5	-68.15	0.00117190688161
+494	Plaza Juárez de Pachuca	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.00117190688161
+495	ciudad Cd	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.00117190688161
+496	Colosio Boulevard	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.00117190688161
+497	ciudad de Pachuca	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.00117190688161
+498	Plaza de la Independencia	Concepción	Bío Bío	Chile	-36.83	-73.05	0.00116626031752
+499	Avenida Carlos Jereissati	Fortaleza	Ceará	Brazil	-3.78	-38.59	0.00116626031752
+500	Villa Morra	Encarnación	Itapúa	Paraguay	-27.33	-55.88	0.00116066030835
+501	Avenida Balboa	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+502	Children's Hospital	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+503	Ciudad de Encarnación	Encarnación	Itapúa	Paraguay	-27.33	-55.88	0.00116066030835
+504	al Hospital del Niño	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+505	Avenue des Martyrs	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+506	Hospital del Nino	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+507	Palacio Justo Arosemena	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+508	Plaza Edison	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+509	Avenue of the Martyrs	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+510	Veranillo, Concepción, San Pedro	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+511	Fort Morgan	Panamá	Panamá	Panama	8.97	-79.53	0.00116066030835
+512	avenida João Goulart	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+513	avenida Alberto Bins	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+514	Avenida Azenha	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+515	Avenida Voluntários da Pátria	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+516	Punta Gorda del municipio Barinas	Barinas	Barinas	Venezuela	8.6	-70.25	0.00114988456837
+517	ciudad de Barinas	Barinas	Barinas	Venezuela	8.6	-70.25	0.00114988456837
+518	Avenida Independência	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+519	Avenida Oswaldo Aranha	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+520	Aeroporto Internacional Pinto Martins	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+521	Ciudad Tavacare	Barinas	Barinas	Venezuela	8.6	-70.25	0.00114988456837
+522	Túnel da Conceição	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+523	Avenida Jerônimo de Ornellas	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.00114988456837
+524	Hospital San Vicente	Managua	Managua	Nicaragua	12.15	-86.27	0.00113954196352
+525	Aeropuerto Internacional de Managua	Managua	Managua	Nicaragua	12.15	-86.27	0.00113954196352
+526	Plaza México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00113474455378
+527	Palacio de Bellas Artes	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00113474455378
+528	San Lázaro Ciudad de México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00113474455378
+529	Michoacán Ciudad de México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00113474455378
+530	Avenida Bucareli	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00113474455378
+531	Palacio Legislativo de San Lázaro	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.00113474455378
+532	Atlántico Avenue	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+533	Ciudad Bolívar-Ciudad Guayana	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+534	Paseo Caroní Avenue	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+535	Puerto Ordaz City	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+536	Caroni river	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+537	Ciudad Guayana ATENCIÓN	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+538	Las Américas Avenue	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+539	Orinoco Rivers	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+540	Puerto Ordaz-Ciudad Bolívar	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+541	Guayana Avenue	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+542	Orinoco river	Ciudad Guayana	Bolívar	Venezuela	8.37	-62.62	0.00112959915003
+543	Avenida Las Américas	Mérida	Mérida	Venezuela	8.4	-71.13	0.00112002649259
+544	Hospital de Niños	Mérida	Mérida	Venezuela	8.4	-71.13	0.00112002649259
+545	Aguascalientes, Mexico City, Chihuahua	Chihuahua	Chihuahua	Mexico	28.63	-106.08	0.00111608258119
+546	Avenida Consolação	Maceió	Alagoas	Brazil	-9.65	-35.75	0.0011108576814
+547	Avenida Buarque de Macedo	Maceió	Alagoas	Brazil	-9.65	-35.75	0.0011108576814
+548	Plaza Lido	Cuernavaca	Morelos	Mexico	18.92	-99.25	0.00110188855613
+549	Plazas Lido	Cuernavaca	Morelos	Mexico	18.92	-99.25	0.00110188855613
+550	Hospital del Niño Morelense	Cuernavaca	Morelos	Mexico	18.92	-99.25	0.00110188855613
+551	Palacio de Cortés	Cuernavaca	Morelos	Mexico	18.92	-99.25	0.00110188855613
+552	Tegucigalpa Teaching Hospital	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+553	Santa Rosita Hospital	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+554	Valle de Sula	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+555	Villas del Sol	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+556	Siria Valley	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+557	Palace Station Casino	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+558	Nogales y Santa Ana, Ciudad Obregón	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+559	Teaching Hospital	Tegucigalpa	Distrito Central	Honduras	14.09	-87.22	0.00109327821479
+560	ciudad de Luque	Asunción	Asunción	Paraguay	-25.3	-57.63	0.00109314552102
+561	Spain Avenue	Valparaíso	Valparaíso	Chile	-33.04	-71.64	0.00108908947994
+562	Ciudad de Dios	Cali	Valle del Cauca	Colombia	3.44	-76.52	0.00108908947994
+563	East Shore Region of Lake Maracaibo	Maracaibo	Zulia	Venezuela	10.73	-71.66	0.00108494723269
+564	Coromoto Hospital	Maracaibo	Zulia	Venezuela	10.73	-71.66	0.00108494723269
+565	Plaza Bolívar	Maracaibo	Zulia	Venezuela	10.73	-71.66	0.00108494723269
+566	Maracaibo Hospital	Maracaibo	Zulia	Venezuela	10.73	-71.66	0.00108494723269
+567	ROCIO VALLEJOS	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+568	CIUDADO ROCIO	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+569	OSEA CON FUNCIONARIOS CORRUPTOS DEL DETAVE	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+570	Hospital Regional de Ciudad del Este	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+571	barrio San Antonio de Ciudad del Este	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+572	barrio San José de Ciudad del Este	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+573	CIUDAD DEL ESTE Unos	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+574	REORDENAMIENTO DEL MICROCENTRO DE CIUDAD DEL ESTE Desalojo	Ciudad del Este	Alto Paraná	Paraguay	-25.42	-54.63	0.00107687814106
+576	Plaza Sotomayor	Santiago	Metropolitana	Chile	-33.46	-70.64	0.00106015039419
+577	Ciudad Fueron	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+578	Ezeiza International Airport	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+579	Hospital de Lugano	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+580	Villa 3	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+581	colegio de Angeles	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+582	Ezeiza Airport	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+583	Avenida Rabanal	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+584	Santojanni Hospital	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+585	Villa Ballester	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+586	hospital Santojanni	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+587	Madrid Hospital	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+588	Villa Crespo	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+589	Labrador City	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+590	Ciudad Buenos Aires	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+591	Metropolitan Airport	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+592	Villa Luro	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+593	Concepción Arenal	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+594	Hospital Borda	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.0010411397101
+595	Plaza de la Soberanía	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+596	hotel Mar	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+597	ciudad Cardel	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+598	Revillagigedo	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+599	colonia Costa Dorada	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+600	Valle Campestre	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+601	hotel de Veracruz	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+602	Veracruz Estados • 27 Mayo	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+603	Veracruz Estados • 23 Mayo	Veracruz	Veracruz	Mexico	19.19	-96.14	0.00103995110628
+604	Avenida Paranaíba	Maceió	Alagoas	Brazil	-9.65	-35.75	0.00103657779531
+605	avenida Marechal Deodoro	Maceió	Alagoas	Brazil	-9.65	-35.75	0.00103657779531
+606	Hospital Souza Aguiar	Maceió	Alagoas	Brazil	-9.65	-35.75	0.00103657779531
+607	Complexo Petroquímico do Rio de Janeiro	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.00103435640313
+608	Valle de Chalco, Mexico	Santiago de Querétaro	Querétaro	Mexico	20.59	-100.4	0.00103381284815
+609	Tahrir Square	Santiago de Querétaro	Querétaro	Mexico	20.59	-100.4	0.00103381284815
+610	ciudad Inocentes	Xalapa-Enríquez	Veracruz	Mexico	19.53	-96.92	0.00103316378546
+611	colonia San Bruno	Xalapa-Enríquez	Veracruz	Mexico	19.53	-96.92	0.00103316378546
+612	colonia Nuevo México	Xalapa-Enríquez	Veracruz	Mexico	19.53	-96.92	0.00103316378546
+613	Ciudad Bendita	Valencia	Carabobo	Venezuela	10.23	-67.98	0.00103316378546
+614	Los Lagos de Xalapa	Xalapa-Enríquez	Veracruz	Mexico	19.53	-96.92	0.00103316378546
+615	Sotavento	Xalapa-Enríquez	Veracruz	Mexico	19.53	-96.92	0.00103316378546
+616	Hospital de Valencia	Valencia	Carabobo	Venezuela	10.23	-67.98	0.00103316378546
+617	Autopista del Sur	Valencia	Carabobo	Venezuela	10.23	-67.98	0.00103316378546
+618	hospital de Bucaral	Valencia	Carabobo	Venezuela	10.23	-67.98	0.00103316378546
+619	Trade City	Xalapa-Enríquez	Veracruz	Mexico	19.53	-96.92	0.00103316378546
+620	Urdaneta Avenue	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+621	Valle del Cauca, Colombia	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+622	Hospital de Coche	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+623	Plaza Morelos	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+624	ciudad Protesta	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+625	Avenida Principal de La Yaguara	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+626	Plaza Altamira	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+627	Hospital Periférico de Coche	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+628	Intercomunal del Valle	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.00102120474285
+629	Plaza de Flórez	Medellín	Antioquia	Colombia	6.29	-75.54	0.0010201061912
+630	Nueva Villa	Medellín	Antioquia	Colombia	6.29	-75.54	0.0010201061912
+631	Plaza de La Libertad	Medellín	Antioquia	Colombia	6.29	-75.54	0.0010201061912
+632	Plaza de las Tres Culturas	Pachuca de Soto	Hidalgo	Mexico	20.12	-98.76	0.000992949746628
+633	avenida Vallarta	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.000990110904773
+634	Plaza Guadalajara	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.000990110904773
+635	colonia San Carlos de Guadalajara	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.000990110904773
+636	Plaza Liberación Política	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.000990110904773
+638	ciudad de Guadalajara	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.000990110904773
+639	Regional Museum of Guadalajara	Guadalajara	Jalisco	Mexico	20.67	-103.35	0.000990110904773
+640	Palmas Miravalle	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+641	Juarez Avenues	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+642	casino Miravalle Palace	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+643	Palace of Monterrey	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+644	Palacio Municipal de Monterrey	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+645	river La Silla	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+646	City Hall of Monterrey	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+647	hospital Muguerza	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+648	colonia Mitras Sur	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+649	Station Hospital	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+650	Macroplaza	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.000984512323287
+651	Avenida Anhanguera	Curitiba	Paraná	Brazil	-25.42	-49.29	0.000984506005801
+652	Arena da Baixada	Curitiba	Paraná	Brazil	-25.42	-49.29	0.000984506005801
+653	Avenida Abraão Caram	Curitiba	Paraná	Brazil	-25.42	-49.29	0.000984506005801
+654	Legislative Palace	Panamá	Panamá	Panama	8.97	-79.53	0.000981749921836
+655	Puebla Zocalo Square	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+656	Michoacán Estados • 3 Mayo	Morelia	Michoacán	Mexico	19.72	-101.18	0.000979033873353
+657	Autopista Siglo 21	Morelia	Michoacán	Mexico	19.72	-101.18	0.000979033873353
+658	Plaza de Toros El Relicario	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+659	Avenida Las Torres	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+660	Plaza San Pedro	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+661	Villavicencio E.	Morelia	Michoacán	Mexico	19.72	-101.18	0.000979033873353
+662	Grito de Independencia	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+663	San Angelo	Morelia	Michoacán	Mexico	19.72	-101.18	0.000979033873353
+664	Transportistas Unidos del Valle de la Malintzi	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+665	Hidalgo Estados • 8 Mayo	Morelia	Michoacán	Mexico	19.72	-101.18	0.000979033873353
+666	Estadio Cuauhtémoc	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+667	Hospital General del Sur	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000979033873353
+668	Tierra Caliente de Michoacán Ciudad de México	Morelia	Michoacán	Mexico	19.72	-101.18	0.000979033873353
+669	BR-290	Porto Alegre	Rio Grande do Sul	Brazil	-30.04	-51.22	0.000971020930314
+670	Presidential Palace	Guatemala	Guatemala	Guatemala	14.63	-90.55	0.000960765657511
+671	Acapulco City Hall	Acapulco de Juárez	Guerrero	Mexico	16.85	-99.92	0.000943663587656
+672	Ciudad Altamiranoâ	Acapulco de Juárez	Guerrero	Mexico	16.85	-99.92	0.000943663587656
+673	colonia Costa Azul	Acapulco de Juárez	Guerrero	Mexico	16.85	-99.92	0.000943663587656
+674	Costera Avenue	Acapulco de Juárez	Guerrero	Mexico	16.85	-99.92	0.000943663587656
+675	HOSPITALES	Barquisimeto	Lara	Venezuela	10.05	-69.3	0.000925438103914
+676	Leonidas Plaza	Guayaquil	Guayas	Ecuador	-2.21	-79.9	0.000912613063595
+677	Catedral de Guayaquil	Guayaquil	Guayas	Ecuador	-2.21	-79.9	0.000912613063595
+678	ciudad de Guayaquil	Guayaquil	Guayas	Ecuador	-2.21	-79.9	0.000912613063595
+679	Plaza de la Administración	Guayaquil	Guayas	Ecuador	-2.21	-79.9	0.000912613063595
+680	Avenida Goiás	Curitiba	Paraná	Brazil	-25.42	-49.29	0.000910506711511
+681	Costa Oriental del Lago	Maracaibo	Zulia	Venezuela	10.73	-71.66	0.000906410833876
+682	Campus 2 da Faculdades Integradas	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+683	Eixo Rodoviário Sul	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+684	Fazenda Lagoa Bonita	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+685	Eixo Rodoviário	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+686	Rodoviária de Brasília	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+687	Complexo Cultural	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+688	Museu Nacional	Brasília	Distrito Federal	Brazil	-15.78	-47.91	0.000856640485558
+689	aeropuerto de Catamayo	Quito	Pichincha	Ecuador	-0.19	-78.5	0.000850032485643
+690	Plaza Belmonte	Quito	Pichincha	Ecuador	-0.19	-78.5	0.000850032485643
+691	Plaza Del Rancho	Quito	Pichincha	Ecuador	-0.19	-78.5	0.000850032485643
+692	Carondelet Palace	Quito	Pichincha	Ecuador	-0.19	-78.5	0.000850032485643
+693	Plaza de Toros Quito	Quito	Pichincha	Ecuador	-0.19	-78.5	0.000850032485643
+694	Hotel Carrasco	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+695	Aeropuerto Internacional de Carrasco	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+696	Terminal Colón	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+697	Colonia Berro	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+698	Hotel Conrad de Punta del Este	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+699	Zoológico Villa Dolores	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+700	Hospital Español	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+701	Plaza Gomensoro	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+702	Avenida Agraciada	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+703	Plaza Colón	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+704	Aeropuerto de Carrasco	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+705	Occupiers of Hospital	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+706	Carrasco International Airport	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+707	Villa Biarritz	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+708	Plaza Vidiella	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+709	Villa Colón	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+710	Avenida Italia	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+711	Hospital Vilardebó	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+712	Avenida Bolivia	Montevideo	Montevideo	Uruguay	-34.87	-56.17	0.00084359309894
+713	Anel Rodoviário de Belo Horizonte	Belo Horizonte	Minas Gerais	Brazil	-19.92	-43.94	0.000838824249719
+714	Gran Avenida	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000824708909139
+715	Aautopista del Sol	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+716	Palacio de Gobierno Cetegistas	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+717	municipio de Malinaltepec	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+718	Carolina Rivera Se	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+719	Juventina Villa Mojica	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+720	Autopista del Sol Las	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+721	Autopista del Sol Política	Chilpancingo de los Bravo	Guerrero	Mexico	17.55	-99.5	0.000819364738317
+723	Oaxaca Estados • 28 Mayo	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+724	Misión de los Ángeles	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+725	Ciudad Universidad	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+726	Ciudad Administrativa	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+727	Estados • 21 Mayo	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+728	Carretera Internacional	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+729	Resistencia del Valle de Ocotlán	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+730	San Pablo Villa	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+731	PARO TAMBIEN AFECTÓ ESCUELAS EN CIUDAD GUZMÁN Este	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+732	TOMA CIUDAD ADMINISTRATIVA En	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+733	Oaxaca City	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000810848589987
+734	Palacio de Municipal	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.00080667715141
+735	ciudad de Monterrey	Monterrey	Nuevo León	Mexico	25.67	-100.32	0.00080667715141
+736	Avenida Reforma	Heróica Puebla de Zaragoza	Puebla	Mexico	19.05	-98.22	0.000801245449938
+737	aeropuerto Internacional Eldorado	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+738	Plaza de la Hoja	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+739	Avenida Primera de Mayo	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+740	Israel Romero Anillo	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+741	Estadio El Campín	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+742	ciudad de Bucaramanga	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+743	Plaza de Bolívar Otro	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+744	Palacio de Liévano	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+745	Plaza de Lourdes	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+746	Hospital de Kennedy	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+747	Local Town Hall	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+748	Bolivar Plaza	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+749	Hospital de la Misericordia	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+750	Antiguo Hotel Hilton	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000784383408751
+751	Plaza Barrios	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+752	Faversal	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+753	Plaza Hula Hula	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+754	North Avenue, Avenue Spain	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+755	Hospital 1	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+756	Ciudad Mujer	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+757	Hospital Primero de Mayo	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+758	Bulevar del Ejército	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+759	Psychiatric Hospital	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+760	hospital nacional Zacamil	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+761	Hotel Presidente	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+762	Boulevard Diego de Holguín	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+763	Colonia Roma	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+764	Hospital Saldaña	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+765	hospital Zacamil El hospital Zacamil	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+766	Lake Ilopango	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+767	Civic Square	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+768	Plaza Las Américas	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+769	Plaza Divino Salvador	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+770	Sindicalistas del hospital	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+771	avenida Monseñor Romero	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+772	colonia Costa Rica	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+773	Aeropuerto Internacional de El Salvador	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+774	Lago de Ilopango	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+775	Plaza del Salvador	San Salvador	San Salvador	El Salvador	13.69	-89.19	0.000749294078707
+776	Avenida Zaki Narchi	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+777	Favela de Paraisópolis	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+778	Terminal Guarapiranga	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+779	Avenida Martins Fontes	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+780	Avenida Bento Guelfi	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+781	Avenida do Ipiranga	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+782	Hospital do Servidor Público	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+783	Avenida Chile	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+784	Avenida Faria Lima	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+785	Autopista Litoral Sul	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+786	Avenida Edu Chaves	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+787	Hospital Emílio Ribas	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+788	Paulista Avenue	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+789	Cemitério do Saboó	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+790	Hospital Geral de Taipas	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+791	BR-101/SC	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+792	avenida da Consolação	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+793	Cemitério Araçá	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+794	Avenida Bandeirantes	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+795	Hospital Brigadeiro	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+796	Avenida Presidente	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+797	Terminal Barra Funda	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+798	Av. Vereador José Diniz	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+799	Rodovia Transbrasiliana	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+800	Avenida José Whitaker	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+801	avenida Manuel Bandeira	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+802	Hospital Geral de Guarulhos	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+803	Av. Washington Luis	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+804	Rodovia Miguel Melhado Campos	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+805	Avenida Belmira Marin	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+806	Avenidas Pacaembu	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+807	Aeroporto Internacional de Congonhas	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+808	Hospital Santa Virgínia	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+809	Hospital Regional Sul	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+810	Avenida Carlos Caldeira Filho	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+811	Aeroporto de Congonhas Trabalhadores	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+812	Catedral da Sé	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+813	SP-563	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+814	Art Museum of Sao Paulo	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+815	Avenida Vereador José Diniz	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+816	avenida Guarapiranga	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+817	Rua Doutor Eurico Rangel	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+818	Avenida Ibirapuera	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+819	Avenida Interlagos	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+820	Estádio do Pacaembu	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+821	Hospital Geral de São Mateus	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+822	SP-324	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+823	Rodovia Dutra	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+824	Avenida Otto Baumgart	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+825	BR-423	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+826	BR-428	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+827	SP-304	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+828	Rodovia Fernão Dias	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+829	Avenida Chucri Zaidan	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+830	Avenida Sargento Sargento Mário Kozel Filho	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+831	Hospital Geral Vila Nova Cachoeirinha	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+832	Avenida do Gás	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+833	Avenida Engenheiro Luiz Carlos Berrini	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+834	Avenida dos Bandeirantes	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+835	Avenida D. Aguirre	São Paulo	São Paulo	Brazil	-23.53	-46.63	0.000718545611846
+836	Palacio Federal	Oaxaca de Juárez	Oaxaca	Mexico	17.07	-96.72	0.000635117098922
+837	Avenida Apoquindo	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+838	Chile Funcionarios del Hospital San Borja	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+839	Hospital San Borja	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+840	Ciudad Jardín	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+841	Hospital San Borja Arriarán	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+842	la Villa Francia	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+843	aeropuerto de Santiago	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+844	Autopista Vespucio Norte	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+845	estadio Monumental	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+846	Plaza 5 de Mayo	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+847	Plaza de Maipú	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+848	Hotel W	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+849	Lo Valledor	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+850	avenida Recoleta	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+851	Estadio Seguro	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+852	Providence City Hall; Marcha	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+853	Avenida Santa María	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+854	Hospital del Trabajador	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+855	Plaza Egaña	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+857	Palacio de La Moneda	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+858	Plaza de la Ciudadanía	Santiago	Metropolitana	Chile	-33.46	-70.64	0.000630382948921
+859	Favela da Rocinha	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+860	Avenida Olegário Maciel	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+861	Colônia Curupaiti	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+862	Complexo Petroquímico	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+864	Hospital Municipal Miguel Couto	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+865	Plaza Shopping	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+866	Av. Niemeyer	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+867	Travessa Madre Jacinta	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+868	Avenida Sernambetiba	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+869	Avenida Lucio Costa Mônica Imbuzeiro	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+870	Estádio Olímpico	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+871	Rodoviária Federal	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+872	Hotel Acolhedor Santana	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+873	Hospital Municipal Souza Aguiar	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+874	Auditório do Palácio Guanabara	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+875	Avenida Visconde de Albuquerque	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+876	Avenida Leopoldo Bulhões	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+877	Cemitério Campos da Paz	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+878	Hotel Royal Tulip	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+879	Avenida Visconde de Niterói	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+880	Estádio Nacional	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+881	Avenida Santa Cruz	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+882	Estádio Conselheiro Galvão	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+883	Hospital São Francisco de Assis	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+884	Rodovia BR-101	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+885	Museu do Índio Alexandre Cassiano	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+886	Complexo de Bangu	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+887	Cemitério São João Batista	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+888	Hospital Federal do Andaraí	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+889	avenida Radial Oeste	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+890	Avenida Pasteur	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+891	Estádio Célio de Barros	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+892	Museu Memória da Verdade	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+893	Complexo Esportivo da Rocinha	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+894	Hospital Universitário Gafrée	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+895	Complexo de Favelas da Maré	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+896	Estádio João Havelange	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+897	Shopping da Gávea	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+898	Hospital do Rim	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+899	Estádio Maracanã	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+900	SINAL PARA UM FAVELADO QUE VOCES ODEIAM	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+901	Avenida Avenida Rio Branco	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+902	Hotel Acolhedor	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+903	Cemitério Jardim da Saudade	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+904	Hospital Central do Instituto de Assistência	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+905	Rodovia Rio	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+906	Hospital Estadual São Sebastião	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+907	Avenida Barão de Tefé	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+908	Rodovia Presidente João Goulart	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+909	Favela do Sapo	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+910	Museu de Arte do Rio	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+911	Avenida Rio Branco RIO	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+912	Plaza de La Candelaria	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+913	Estádio Amsterdã	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+914	Autoestrada Lagoa-Barra	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+915	Avenida Gomes Freire	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+916	Villas Boas	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+917	Hotel Glória	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+918	Lagoa-Barra	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+919	Galeao Airport	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+920	Avenidas General San Martin	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+921	Túnel Novo RIO	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+922	Tom Jobim International Airport	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+923	Avenida Ayrton Senna	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+924	Aeroporto Internacional	Rio de Janeiro	Rio de Janeiro	Brazil	-22.91	-43.2	0.000617287740789
+925	avenida Centenario	Bogotá	Bogotá	Colombia	4.63	-74.09	0.000609119402311
+926	Insurgentes Avenue	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+927	Peña Ciudad de México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+928	Plaza del Zapato	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+929	Palacio Legislativo de San Lázaron	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+930	Palacio de San Lázaro	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+931	Avenida Campos Elíseos	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+932	Revolution Monument	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+933	Plaza Tlaxcoaque	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+934	Oaxaca Ciudad de México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+935	avenida Ermita Iztapalapa	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+936	Plaza de la República	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+937	Hospital de Ortopedia	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+938	Palace of San Lázaro	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+939	Anillo Periférico	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+940	Atenco, Insurgentes Avenue	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+941	el Zocalo of Mexico City	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+942	Avenida Insurgentes	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+943	Palacio Legislativo Vídeo	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+944	Plaza Tolsá	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+945	CCH Oriente Ciudad de México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+946	Chapultepec Ciudad de México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+947	Serdán Achilles Avenue	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+948	ciudad México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+949	Palacio de Covián	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+950	Avenida Chapultepec 494	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+951	colonia Del Parque	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+952	Hospital de Ortopedia Magdalena	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+953	Ciudad Azteca	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+954	Colonia del Valle	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+955	Anillo de Circunvalación	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+956	Avenida del Imán	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+957	Palacio de Bellas	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+958	Avenida Chapultepec	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+959	Angel de Independencia	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+960	Palacio Legislativos	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+962	Zocalo, Mexico City	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+963	Ignacio del Valle	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+964	Emiliano Zapata Avenue	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+965	Plaza de las Tres	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+966	campus Ajusco	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+967	Plaza de Constitución	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+968	Plaza Rio	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+969	Centennial Avenue	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+970	Plaza de Toros México	Ciudad de México	Distrito Federal	Mexico	19.43	-99.14	0.000566877042439
+971	Avenida Kubitschet	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+972	Catedral de Asunción	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+973	Plaza Uruguay	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+974	Palacio de Justicia	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+975	ciudad de San Lorenzo	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+976	Artigas Avenue	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+977	Campus de San Lorenzo	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+978	Asunción’s Plaza Uruguaya	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+979	Central Hospital	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+980	Palacio del Gobierno Asuncion	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000546120964165
+981	ciudad de Zárate	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+982	Case Angeles	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+983	Hospital Posadas	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+984	Plaza Lavalle	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+985	Hospital Fiorito	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+986	Corrientes Av.	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+987	Villa del Parque y Paternal	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+988	Ramón Castillo Avenue	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+989	Fiorito de Avellaneda	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+990	Hospital Municipal San José	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+991	Autopista Riccheri	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+992	Plaza de los Dos Congresos	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+993	Arenales	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+994	Ciudad Esta	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+995	Avenida Maipu	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+996	Puente Saavedra	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+997	Saavedra Bridge	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+998	Barrio Villa	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+999	Plaza San MartÃ­n	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1000	hospital Argerich	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1001	Julio Avenue Downtown Buenos Aires	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1002	Plaza de Mayo	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1003	City of Buenos Aires	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1004	Rosario airport	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1005	Autopistas del Oeste	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1006	Buenos Aires City neighbourhood of Liniers	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1007	City neighbourhood of Liniers	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1008	Aeroparque Airport	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1009	Villa Soldati	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1010	Palacio Pizzurno	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1011	Ángel di Maria	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1012	Playa de Mayo	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1013	Avenida Corrientes	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1014	Villa Martelli	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1015	Autopista Buenos Aires	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1016	Avenida 9 de Julio Avenue	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1017	Avenida Almirante Brown	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1018	avenida Antártida Argentina	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1019	Avenida de Mayo Compartir	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1020	ciudad de San Bernardo	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1021	Autopista Illia	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1022	Villa Riachuelo	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1023	Mar del Plata del Monumento	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1024	Villa Celina	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1025	Autopistas del Sol	Buenos Aires	Distrito Federal	Argentina	-34.61	-58.37	0.000520167681144
+1026	Intercomunal de El Valle	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1027	City Tiuna	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1028	Francisco de Miranda Avenue	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1029	avenida Baralt	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1030	El Valle La	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1031	Fort Tiuna	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1032	Main Avenue of La Yaguara	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1033	Oriental del Lago	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1034	Hospital Vargas de Cotiza	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1035	Cubres Ciudad Barinas	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1036	Palace of Miraflores	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1037	Cardiology Hospital Project	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1038	Plaza Altamira Las	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1039	Plaza Rectorado	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1040	Hospital Militar Doctor	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1041	Avenida Río de Janeiro	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1042	Miraflores Palace	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1043	Ciudad William Lara	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1044	Bulevar de Sabana Grande	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1045	Charallave Norte station	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1046	Baralt Avenue	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1047	Plaza Caracas	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1048	Occidental del Lago	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1049	Valle Abajo de Caracas	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1050	Hospital de Niños J. M.	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1051	Brion Square	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1052	Charallave Sur	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1053	EL TRÁNSITO Avenida Río de Janeiro	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1054	CIUDADANOS	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1055	Hospital Coromoto	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1056	Intercomunal Avenue	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1057	CARRETERAS	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1058	City Hall of Libertador	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1059	Hotel Nobleton	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1060	Valle Coche	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1061	Guarenas Petare ATENCIÓN	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1062	hotel Nobletón Un	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1063	Miraflores Presidential Palace	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1064	El Valle y Valle Abajo	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1065	Hospital Vargas	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1066	Great City Tiuna Mission Housing Venezuela	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1067	Miarflores Palace	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1068	Plaza Diego Ibarra	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1069	Hospital Pérez de León de Petare	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1070	Palacio Miraflores	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1071	Bolivar Avenue	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1072	DANIEL PALACIOS	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1073	Ventuari de Valle Abajo	Caracas	Distrito Capital	Venezuela	10.54	-66.93	0.000510217936419
+1074	Victoria Avenue	Asunción	Asunción	Paraguay	-25.3	-57.63	0.000378336711723
