@@ -1,0 +1,44 @@
+* Twitter Geocoder
+** Country Level
+|----------------------+------------------------------------------+--------------------------|
+| feature              | data                                     | source file              |
+|----------------------+------------------------------------------+--------------------------|
+| timezone             | data['actor']['titterTimeZone']          | timezones.tsv            |
+| tweet text           | data['body']                             | country_multilingual.csv |
+| description          | data['actor']['summary']                 | country_multilingual.csv |
+| location description | data['actor']['location']['displayName'] | country_multilingual.csv |
+| location code        | data['location']['country_code']         | TM_WORLD_BORDERS-0.3.shp |
+| geopoint_country     | data['geo']['coordinates']               | TM_WORLD_BORDERS-0.3.shp |
+| retweet              | data['object']                           | all above                |
+|----------------------+------------------------------------------+--------------------------|
+
+** City Level
+
+|---------------------+-------------------------------------------------------------+--------|
+| policy              | function                                                    | source |
+|---------------------+-------------------------------------------------------------+--------|
+| tweet_text_country  | None                                                        |        |
+| geo_coordinates     | geo_from_lat_lon                                            |        |
+| geo_place           | _geo_from_twitter_place                                     |        |
+| rt_user_location    | match_for_lat_lon, match_for_names, match_for_code, resolve |        |
+| user_location       | match_for_lat_lon, match_for_names, match_for_code, resolve |        |
+| tweet_text          | _geos_from_tweet-text                                       |        |
+| landmarks           | geo_from_landmarks                                          |        |
+| dirty_landmarks     | geo_from_landmarks                                          |        |
+| rt_user_description | match_for_names, resolve                                    |        |
+| user_description    | match_for_names, resolve                                    |        |
+| user_location_rnt   | Not used                                                    |        |
+|---------------------+-------------------------------------------------------------+--------|
+
+
+world-gazetteer-lac.v3.txt
+world-gazetteer-mena.v1.txt
+
+
+lac_co_admin.txt: all latin-american courties
+mena_co_admin.txt: 
+
+lac_landmarks_1k.txt: for lac
+lac_landmarks_4k.txt: for lac, dirty
+mena_landmarks_0.txt: for mena
+
